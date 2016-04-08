@@ -1,0 +1,157 @@
+
+
+/* Imports
+--------------------------------------------- */
+
+	@import 				"css/less/bootstrap/bootstrap.less";
+	@import 				"css/less/mixins.less";
+	@import 				"//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css";
+
+
+
+/* Layout
+  --------------------------------------------- */
+
+
+@mainwidth: 				1300px;
+@innerwidth:				985px;
+
+
+.container {
+	max-width: @mainwidth;
+	margin:auto;
+	background: #fff;
+	border-left:1px solid #dedddd;
+	border-right:1px solid #dedddd;
+}
+
+.inside {
+	max-width: @innerwidth;
+	margin: auto;
+}
+
+
+/* Colors + Vars
+--------------------------------------------- */
+
+
+@red: 			#eb212e;
+@grey: 			#58595b;
+
+
+.redtext {color: @red;}
+.greytext {color: @grey;}
+.noise {background: url('../images/noise.jpg') repeat;}
+
+
+	/* buttons */
+		
+		.btn, .gform_button {
+			font-family: @proximacondensed;
+			font-size: 19px;
+			font-weight: 300;
+			color: #fff;
+			text-transform: uppercase;
+			position: relative;
+			
+			.transition();
+			
+			&::after {
+				content: ' ';
+				background-image: url('../images/btnarrow.png')!important;
+				display: block;
+				width: 20px;
+				height: 20px;
+				position: absolute;
+				right: @padding-base-horizontal + 3;
+				top: 50%;
+				margin-top: -(@padding-base-vertical + 4);
+				
+				.transition();
+			}
+			
+			&:hover {
+				&::after {
+					right: @padding-base-horizontal;
+				}
+			}
+			
+			&.btn-default {
+				&:hover {
+					background: darken(@grey, 10%);
+					color: #fff;
+				}
+			}
+		}
+
+
+
+/* Type
+  --------------------------------------------- */
+
+
+	@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300');
+
+	@proxima: 				'proxima-nova', sans-serif;
+	@proximacondensed: 		'proxima-nova-condensed', sans-serif;
+	@roboto: 				'Roboto Condensed', sans-serif;
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: @proxima;
+		font-weight: 400;
+	}
+	
+	p, li, input {
+		font-family: @proxima;
+		font-weight: 300;
+		color: #000;
+		
+		.thecontent & {
+			font-size: 15px;
+			line-height: 22px;
+		}
+	}
+	
+	a {
+		text-decoration: none!important;
+	}
+	
+
+
+/* Site
+  --------------------------------------------- */
+
+
+  	@import 				"css/less/header.less";
+  	@import 				"css/less/slider.less";
+  	@import 				"css/less/promo.less";
+  	@import 				"css/less/launchpad.less";
+  	@import 				"css/less/footer.less";
+
+  	@import 				"css/less/content.less";
+  	@import 				"css/less/repeater.less";
+
+  	@import 				"css/less/thecampaign.less";
+  	@import 				"css/less/contactus.less";
+  	@import 				"css/less/donate.less";
+  	@import 				"css/less/takeaction.less";
+
+  	@import 				"css/less/archive.less";
+
+
+  	@import 				"css/less/users.less";
+
+
+/* Globals
+  --------------------------------------------- */
+
+
+body {
+	background: #f8f8f8;
+}
+
+* {
+	outline: none!important;
+}
+
+#gforms_confirmation_message {height: 120px!important;}

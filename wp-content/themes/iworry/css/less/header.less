@@ -1,0 +1,160 @@
+
+#editlink {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	font-size: 20px;
+	
+	a {
+		display: block;
+	}
+}
+
+
+/* Header
+--------------------------------------------- */
+
+#headerwrap, #footerwrap {
+	height: 70px;
+	background: #000;
+	#header, #footer {border: 0!important;}
+}
+
+#header {
+	height: 70px;
+	background: #000;
+	position: relative;
+	z-index: 200;
+	
+	.bottomshadow();
+	
+	.row {
+		position: relative;
+	}
+	
+	#logo {
+		position: absolute;
+		left: 0;
+	}
+	
+	#navwrap {
+		padding-left: 150px;
+	}
+	
+	#nav {
+		margin:0;
+		
+		li {
+			font-family: @roboto;
+			line-height: 70px;
+			font-size: 16px;
+			text-transform: uppercase;
+			display: inline-block;
+			margin: 0 20px 0 0;
+			font-weight: 400;
+			
+			a {
+				color: #fff;
+				
+				.transition();
+				
+				&:hover {
+					color: #a7a6a6;
+					text-decoration: underline;
+				}
+			}
+			
+			&.current-menu-item a {
+				color: #a7a6a6;
+				text-decoration: underline!important;
+			}
+		}
+	}
+	
+	.donatenow {
+		display: block;
+		height: 70px;
+		line-height: 70px;
+		background: #fff;
+		color: @red;
+		font-size: 18px;
+		text-transform: uppercase;
+		padding: 0 10px;
+		font-family: @roboto;
+		font-weight: 400;
+		
+		.box-sizing();
+		.transition();
+		
+		&:hover {
+			background: @red;
+			color: #fff;
+			text-decoration: none;
+		}
+	}
+}
+
+
+/* Social Icons
+  --------------------------------------------- */
+
+
+.socialicons {
+	line-height: 70px;
+	margin-right: 30px;
+	
+	a {
+		width: 28px;
+		height: 28px;
+		display: inline-block;
+		background: #fff;
+		text-align: center;
+		line-height: 28px;
+		color: #000;
+		font-size: 20px;
+		text-decoration: none!important;
+		
+		.border-radius(100%);
+		.transition();
+		
+		&.social-fb {
+			i {
+				position: relative;
+				left:-1px;
+			}
+			
+			&:hover {
+				background: lighten(#4d5da4, 10%);
+			}
+		}
+
+		&.social-tw {
+			i {
+				position: relative;
+				left:1px;
+				top: 1px;
+			}
+			
+			&:hover {
+				background: #31b9f3;
+			}
+		}
+	}
+}
+
+
+
+
+/* Page Header
+  --------------------------------------------- */
+
+
+#pageheader {
+	position: relative;
+
+	.btn-primary {
+		position: absolute;
+		right: 220px;
+		bottom: 25px;
+	}
+}

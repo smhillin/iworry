@@ -1,0 +1,6 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#input_hbmaps_style, #input_hbmaps_contentstring{
+	width:500px;
+	height:200px;
+}

@@ -1,0 +1,15 @@
+Header set Access-Control-Allow-Origin "http://iworry.org"
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# Set PHP handler to application/x-httpd-php54s on Tue Nov 17 21:53:29 MST 2015.
+AddHandler application/x-httpd-php54s .php

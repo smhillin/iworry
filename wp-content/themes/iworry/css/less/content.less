@@ -1,0 +1,155 @@
+
+
+/* Type
+  --------------------------------------------- */
+
+/* headings */
+
+h3, .arrowedheading, .gsection_title {
+	font-size: 22px;
+	text-transform: uppercase;
+	margin: 30px 0 20px;
+	
+	&::before {
+		content: '';
+		background: url('../images/redarrow.png') 0 0 no-repeat;
+		display: inline-block;
+		width: 20px;
+		height: 20px;
+		position: relative;
+		top: 2px;
+		margin-right: 10px;
+	}
+	
+	a {
+		.transition();
+
+		&:hover {
+			color: @red!important;
+		}
+	}
+}
+
+#page {
+	padding-top:50px;
+	
+	.thecontent:first-of-type {
+		
+		p {
+			color: #58595b;
+			font-size: 21px;
+			line-height: 27px;
+			font-weight: 300;
+			padding-right: 50px;
+		}
+		
+		h3 {
+			font-size: 22px;
+			text-transform: uppercase;
+			margin: 30px 0;
+			
+			&::before {
+				content: '';
+				background: url('../images/redarrow.png') 0 0 no-repeat;
+				display: inline-block;
+				width: 20px;
+				height: 20px;
+				position: relative;
+				top: 2px;
+				margin-right: 10px;
+			}
+			
+			.thecrisis & {
+				margin-top: 40px;
+			}
+		}
+
+		.thecrisis & {
+			border-right: 2px solid @grey;
+		}
+	}
+}
+
+/* content
+--------------------------------------------- */
+
+.single {
+	h1 {
+		font-size: 19px !important;
+	}
+	
+	.singletitle {
+		font-size: 40px;
+		font-weight: 100;
+	}
+	
+	#news {
+		padding-top: 65px;
+		
+		.newsitem {
+			background: none;
+		}
+	}
+}
+
+.thecontent {
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+	
+	
+	h1 {
+		border-bottom: 2px solid @grey;
+		border-right: 2px solid #fff;
+		font-weight: 300;
+		position: relative;
+		font-size: 29px;
+		margin: 10px -2px 20px 0;
+		
+		//.box-shadow(2px 0 0 0 #fff);
+
+		span {
+			display: inline-block;
+			padding:0 10px;
+			height: 38px;
+			line-height: 38px;
+			text-transform: uppercase;
+			color: #fff;
+			background: @grey;
+			text-decoration: none!important;
+		}
+	}
+	
+	ul {
+		margin-left: 0!important;
+		padding-left: 0!important;
+	}
+	
+	li {
+		list-style: none;
+		position: relative;
+		font-size: 16px;
+		line-height: 23px;
+		color: #000;
+		margin-bottom: 20px;
+		font-weight: 400;
+		padding-left: 30px;
+
+		&::before {
+			position: absolute;
+			
+			left: 0px;
+			color: @red;
+			.icon('\F111');
+		}
+	}
+	
+	/* images */
+
+	img.alignright {
+		float: right;
+		margin: 15px 0 15px 50px;
+	}
+}

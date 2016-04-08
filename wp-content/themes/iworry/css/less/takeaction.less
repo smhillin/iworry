@@ -1,0 +1,611 @@
+
+.mapnote {
+	display: block;
+	margin: -20px 0 40px;
+	color: #58595b!important;
+	border: 1px solid rgba(255,0,0,.2);
+	background: rgba(255,0,0,.1);
+	padding: 10px;
+	font-weight: 200;
+	line-height: 20px;
+	.border-radius(3px);
+}
+
+
+/* Donate
+  --------------------------------------------- */
+
+
+#page.takeaction {
+	position: relative;
+	padding-bottom: 40px;
+	
+	.bottomshadow(10px, .2);	
+}
+
+#repeater.takeaction {
+	h4 {
+		position: relative;
+		a {
+			font-size: 22px!important;
+			font-weight: 400;
+			padding-left: 0px!important;
+		}
+	}
+	
+	.greyblock {
+		background: @grey;
+		display: inline-block;
+		padding:0 10px 0 50px!important;
+		position: relative;
+	}
+	
+	.repeatercount {
+		display: inline-block;
+		width: 28px;
+		height: 28px;
+		position: absolute;
+		left: 10px;
+		top: 3px;
+		background: @red!important;
+		color: #fff;
+		text-align: center;
+		line-height: 30px;
+		font-size: 16px;
+		padding:0!important;
+		z-index: 999;
+		
+		.border-radius(100%);		
+	}
+}
+
+
+
+
+/* Map
+  --------------------------------------------- */
+
+
+
+#themap {
+	position: relative;
+	
+	#zoomcontrols {
+		position: absolute;
+		right: 0;
+		top: 50%;
+		margin-top: -50px;
+		z-index: 9999;
+
+		a {
+			color: #333;
+			display: block;
+			font-size: 25px;
+			width: 50px;
+			height: 50px;
+			text-align: center;
+			line-height: 50px;
+			
+			.transition();
+
+			&.zoomin {
+				background: #828282;
+				&:hover {
+					background: darken(#828282, 10%);
+				}
+			}
+			&.zoomout {
+				background: #9c9c9c;
+				&:hover {
+					background: darken(#9c9c9c, 20%);
+				}
+			}
+		}
+	}
+}
+
+
+/*
+.custompin {
+	overflow: visible!important;
+	opacity: 1!important;
+	border:4px solid #fff!important;
+
+	.box-sizing(content-box);
+	.border-radius(3px);
+	.bottomshadow(15px, .3);
+		
+	&::after {
+		display: block;
+		width: 15px;
+		height: 15px;
+		font-size: 30px;
+		color: #fff;
+		position: absolute;
+		bottom: -2px;
+		left:11px;
+		
+		.icon('\F0D7');
+	}
+	
+	&:first-of-type {
+
+	}
+}
+*/
+
+
+/* userinfo */
+
+.username strong {font-weight:300;font-size:14px;color:#000;}
+.useraddress {font-size:11px!important;color:#888;}
+.marchinfo {margin-top: 5px;}
+.marchinfo i, .marchfb i {margin-right: 5px;}
+.marchfb p {margin: 5px 0 5px;border-top: 1px solid rgba(0,0,0,.2);padding-top: 5px;}
+.branchdetails {max-width: 300px;}
+
+
+/* User form
+  --------------------------------------------- */
+
+
+.userform {
+	margin-top: 30px;
+
+	.make-row();
+
+	.userfields {
+		margin:0;
+		.make-column(4);
+		
+		&:last-of-type {
+			padding-left: 100px!important;
+			background: url('../images/vertsep.png') 45px center no-repeat;
+			background-size: auto 100%;
+			min-height: 210px!important;
+			.box-sizing();
+		}
+	}
+	
+	.userfield {
+		margin-bottom: 15px;
+		position: relative;
+		
+		.help-inline {
+			font-size: 11px;
+			line-height: 13px;
+		}
+		
+		&.has-error {
+			input {
+				border-color: @red;
+			}
+		}
+	}
+	
+	#getlatlong {
+		font-size: 12px;
+		font-weight: 400!important;
+		text-transform: uppercase;
+		line-height: 9px;
+		letter-spacing: 1px;
+		padding: 4px 6px 3px;
+		margin-top: 5px;
+		margin-bottom: -5px;
+		
+		.border-radius(3px);
+		
+		&::after {
+			display: none;
+		}
+	}
+	
+	
+	label {
+		font-weight: 400;
+		font-size: 15px;
+		color: #58595b;
+		display: block;
+		margin-bottom: 0;
+		font-family: @proxima;
+	}
+
+	input[type=text] {
+		height: 30px;
+		border:1px solid rgba(0,0,0,.2);
+		width: 100%;
+		font-family: @proxima;
+		color: #333;
+		font-size: 14px;
+		padding: 3px 10px 0;
+		
+		.box-sizing(padding-box);
+		.box-shadow(inset 0 2px 2px rgba(0,0,0,.3));		
+	}
+	
+	.uploadbtn {
+		width: 110px;
+		background: grey;
+		color: #fff;
+		height: 29px;
+		font-size: 14px!important;
+		padding-top: 5px!important;
+		.transition();
+		&::before {
+			margin-right: 10px;
+			.icon('\F067');
+		}
+		&::after {
+			display: none;
+		}
+		&:hover {
+			background:darken(grey, 10%);
+		}
+	}
+	
+	.avatarinput {
+		width: 200px!important;
+		font-size: 12px!important;
+		position: absolute;
+		left: 110px;
+		background: transparent;
+		border: 0!important;
+		text-overflow: ellipsis;
+		.box-shadow(none)!important;
+	}
+	
+	.usersubmit {
+		padding-top: 20px;
+
+		input[type=button] {
+			font-size: 20px!important;
+			background-image: url('../images/btnarrow.png')!important;
+			background-position: 90% center;
+			background-repeat: no-repeat;
+			padding: 10px 40px 8px 15px;
+		}		
+	}
+}
+
+#userformalert {
+	font-size: 12px;
+	line-height: 14px;
+	margin: 0 15px 30px;
+
+	.box-sizing(padding-box)!important;
+	
+	div {
+		margin-bottom: 10px;
+		&:last-of-type {
+			margin: 0;
+		}
+	}
+}
+
+/* Join March
+  --------------------------------------------- */
+
+#join-digital-march {
+	img {
+		float: left;
+		margin: 0 50px 40px 0;
+	}
+	
+	.downloadposter {
+		background: url('../images/downloadposter.png') 0 center no-repeat;
+		height: 36px;
+		display: inline-block;
+		margin: 10px 0;
+		line-height: 36px;
+		padding: 0 0 0 45px;
+		font-weight: 600;
+		font-size: 22px;
+		text-transform: uppercase;
+	}
+	
+	#supporterslist {
+		h3 {
+			margin-bottom: 15px;
+		}
+		
+		.userlist {
+			margin-top: 40px;
+			max-height: 510px;
+			overflow: scroll;
+			
+			.auser {
+				margin-bottom: 0;
+			}
+		}
+		
+		center {
+			padding-top: 30px;
+			a {
+				display: inline-block;
+			}
+		}
+		
+		#supporterform {
+			.modal-content {padding: 10px 30px;}
+		}
+				
+		.gform_wrapper ul {
+			margin:0!important;
+			padding:0!important;
+			.list-unstyled();
+		}
+		.gform_wrapper li {
+			margin:0!important;
+			padding:0!important;
+			.form-group();
+		}
+		.gform_wrapper form {
+			margin-bottom: 0;
+		}
+		.gform_wrapper .gfield_label {
+		}
+		.gform_wrapper .gfield_required {
+			padding-left: 1px;
+			color: @state-danger-text;
+		}
+		.ginput_container input,
+		.ginput_container select,
+		.ginput_container textarea, 
+		.woocommerce .input-text {
+			.form-control();
+		}
+		.ginput_container textarea {
+			height: auto;
+		}
+		.gform_button {
+			.btn();
+			.btn-primary();
+		}
+		.gform_wrapper .gfield_error {
+			.gfield_label {
+				color: @state-danger-text;
+			}
+			input,
+			select,
+			textarea {
+				border-color: @alert-danger-border;
+				background-color: @alert-danger-bg;
+				color: @alert-danger-text;
+				.form-control-focus(@alert-danger-text);
+			}
+		}
+		.validation_error {
+			.alert();
+			.alert-danger();
+		}
+		#gforms_confirmation_message {
+			.alert();
+		}
+		
+		.validation_message {
+			display: none;
+		}
+		
+		.gform_ajax_spinner {
+			padding: 0!important;
+			background: 0!important;
+			margin-left: 20px;
+		}
+
+		
+	}
+	
+	
+	#productlist {
+		margin-top: 60px;
+		
+		#products {
+			padding-top: 30px!important;
+			
+			img {
+				float: right!important;
+				margin: 0 0 0 50px!important;
+			}
+			
+			.btn {
+				margin: 20px 0 0;
+			}
+			
+			h4 {
+				.greyblock {
+					padding: 0 10px!important;
+				}
+			}
+		}
+	}
+}
+
+
+/* Email Friends
+  --------------------------------------------- */
+
+
+#share-message {
+}
+
+
+#field_2_1,
+#field_2_4,
+#field_2_6,
+#field_2_8,
+#field_2_10,
+#field_2_12 {
+	float:left;width:50%;clear:none;
+	
+	input {
+		width: 92%;
+	}
+}
+
+#field_2_2,
+#field_2_5,
+#field_2_9,
+#field_2_7,
+#field_2_11,
+#field_2_13 {
+	float:right;width:50%;clear:none;
+	
+	input, label {
+		width: 92%;
+		float: right;
+	}
+}
+
+
+#repeater.takeaction {
+	blockquote {
+		margin:30px 0 0;
+		padding:30px 0 0;
+		border-top: 1px dotted #b3b2b2;
+		
+		p {
+			font-style: oblique;
+			font-size: 16px;
+			line-height: 23px;
+			margin-bottom: 20px;
+		}
+		
+		img {
+			margin-top: 10px;
+		}
+	}
+}
+
+
+#gform_wrapper_2 {
+	max-width: 100%;
+	float: left;
+	margin-top: 30px;
+	
+	.gsection {
+		border:0!important;
+	}
+
+	li {
+		margin:0;
+		padding:0;
+	}
+	
+	.gsection_title {
+		border:0!important;
+		margin: 40px 0 30px!important;
+		float: left;
+		font-weight: 400;
+	}
+}
+
+
+/* Foster
+  --------------------------------------------- */
+
+
+#foster-orphaned-elephant {
+	img {
+		float: left;
+		margin: 0 50px 0 0;
+	}
+}
+
+
+/* Petition Form
+  --------------------------------------------- */
+
+
+#signpetition {
+	.inside {
+		padding-bottom: 30px;
+	}	
+}
+
+#petitionform {
+	background: url('../images/shadow.png') center bottom no-repeat;
+	background-size: 100% auto;
+	padding: 40px 0 40px;
+	margin-bottom: 10px;		
+		
+	p {
+		font-weight: 600;
+	}
+	
+	.gform_wrapper {
+		position: relative;
+		background: url('../images/vertsep.png') 74% 30px no-repeat;
+		background-size: auto 100px;
+		
+		#field_3_1, #field_3_3 {
+			width: 33%;
+			float: left;
+			clear: none;
+
+			input {
+				width: 100%;
+			}
+		}
+		
+		#field_3_4 {
+			width: 33%;
+			clear: both;
+			input {
+				width: 100%;
+			}
+		}
+		
+		#field_3_3 {
+			position: absolute;
+			top: 0;
+			left: 37%;
+			
+			textarea {
+				height: 90px!important;
+			}
+		}
+		
+		.gform_footer {
+			width: 20%;
+			position: absolute;
+			right: 0;
+			top: 0;
+			
+			input {
+				font-weight: 300;
+			}
+		}
+		
+		/* validation */
+		
+		.gfield_error {
+			padding: 0!important;
+			border:0!important;
+			background: transparent!important;
+			margin:0!important;
+			
+			input, .ginput_container {
+				margin:0!important;
+			}
+			
+			.ginput_container {
+				margin-bottom: -3px!important;
+			}
+		}
+		
+		.validation_error {
+			position: absolute;
+			right: 0;
+			top: 80px;
+			width: 20%;
+			font-size: 14px;
+			font-weight: 600;
+			color: @red;
+			font-family: @proxima;
+		}
+		
+		.validation_message {
+			display: none;
+		}
+	}
+}

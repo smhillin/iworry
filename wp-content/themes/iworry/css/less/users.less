@@ -1,0 +1,42 @@
+
+@userwidth:			172px;
+@userheight:		140px;
+
+
+/* Users list
+  --------------------------------------------- */
+
+.userlist {
+	text-align: center;
+	background: url('../images/shadow.png') center bottom no-repeat;
+	padding-bottom: 30px;
+
+	.auser {
+		display: inline-block;
+		margin: 0 21px 20px 0;
+
+		.square(@userwidth);
+		
+		.userpic {
+			width: @userwidth!important;
+			height: @userheight!important;
+			overflow: hidden;
+
+			img {
+				width: @userwidth!important;
+				height: @userheight!important;
+			}
+		}
+		
+		.username {
+			width: 100%;
+			height: 35px;
+			font-size: 13px;
+			text-align: center;
+			color: #fff;
+			background: #000;
+			line-height: 35px;
+			font-family: @proxima;
+		}
+	}
+}

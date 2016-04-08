@@ -1,0 +1,2850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-06-11T20:38:52Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>365860D4E210100F</string>
+	<key>Tracks</key>
+	<dict>
+		<key>158</key>
+		<dict>
+			<key>Track ID</key><integer>158</integer>
+			<key>Name</key><string>Entre Tus Alas</string>
+			<key>Artist</key><string>Camila</string>
+			<key>Album Artist</key><string>Camila</string>
+			<key>Composer</key><string>Paulyna Carraz &#38; Mario Domm</string>
+			<key>Album</key><string>Dejarte de Amar</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9025408</integer>
+			<key>Total Time</key><integer>245961</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-01T16:24:03Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3467466389</integer>
+			<key>Play Date UTC</key><date>2013-11-16T22:06:29Z</date>
+			<key>Release Date</key><date>2010-02-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29455AA74F564692</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Camila/Dejarte%20de%20Amar/02%20Entre%20Tus%20Alas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>160</key>
+		<dict>
+			<key>Track ID</key><integer>160</integer>
+			<key>Name</key><string>Quisiera Decir Tu Nombre</string>
+			<key>Artist</key><string>José Luis Perales</string>
+			<key>Album Artist</key><string>José Luis Perales</string>
+			<key>Composer</key><string>José Luis Perales</string>
+			<key>Album</key><string>Colección Diamante: Jose Luis Perales</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8986799</integer>
+			<key>Total Time</key><integer>276873</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2012-07-01T16:25:48Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3395043485</integer>
+			<key>Play Date UTC</key><date>2011-08-01T16:38:05Z</date>
+			<key>Release Date</key><date>1987-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>984563A3F3978B72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Jos%C3%A9%20Luis%20Perales/Colecci%C3%B3n%20Diamante_%20Jose%20Luis%20Perales/1-02%20Quisiera%20Decir%20Tu%20Nombre.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>162</key>
+		<dict>
+			<key>Track ID</key><integer>162</integer>
+			<key>Name</key><string>Me Llamas</string>
+			<key>Artist</key><string>José Luis Perales</string>
+			<key>Album Artist</key><string>José Luis Perales</string>
+			<key>Composer</key><string>José Luis Perales</string>
+			<key>Album</key><string>Colección Diamante: Jose Luis Perales</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8930704</integer>
+			<key>Total Time</key><integer>275108</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2012-07-01T16:25:49Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3397234046</integer>
+			<key>Play Date UTC</key><date>2011-08-27T01:07:26Z</date>
+			<key>Release Date</key><date>1987-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F45575A822914C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Jos%C3%A9%20Luis%20Perales/Colecci%C3%B3n%20Diamante_%20Jose%20Luis%20Perales/1-07%20Me%20Llamas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>164</key>
+		<dict>
+			<key>Track ID</key><integer>164</integer>
+			<key>Name</key><string>Amiga Mia</string>
+			<key>Artist</key><string>Alejandro Sanz</string>
+			<key>Album Artist</key><string>Alejandro Sanz</string>
+			<key>Album</key><string>Alejandro Sanz: Grandes Exitos 1997-2004</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>10024150</integer>
+			<key>Total Time</key><integer>290973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-04-24T20:18:23Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3395304475</integer>
+			<key>Play Date UTC</key><date>2011-08-04T17:07:55Z</date>
+			<key>Release Date</key><date>2004-11-30T08:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33465BCDB78A9E56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Sanz/Alejandro%20Sanz_%20Grandes%20Exitos%201997-2004/04%20Amiga%20Mia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>166</key>
+		<dict>
+			<key>Track ID</key><integer>166</integer>
+			<key>Name</key><string>La Fuerza del Corazón</string>
+			<key>Artist</key><string>Alejandro Sanz</string>
+			<key>Album Artist</key><string>Alejandro Sanz</string>
+			<key>Composer</key><string>Alejandro Sanz</string>
+			<key>Album</key><string>Grandes Exitos 1991-2004 (Superdeluxe Edition)</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>10677412</integer>
+			<key>Total Time</key><integer>307045</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-07-01T16:21:27Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3395305901</integer>
+			<key>Play Date UTC</key><date>2011-08-04T17:31:41Z</date>
+			<key>Release Date</key><date>2004-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Fuerza del Corazón</string>
+			<key>Persistent ID</key><string>0F4DFD824BC51574</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Sanz/Grandes%20Exitos%201991-2004%20(Superdeluxe%20Ed/1-03%20La%20Fuerza%20del%20Coraz%C3%B3n.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168</key>
+		<dict>
+			<key>Track ID</key><integer>168</integer>
+			<key>Name</key><string>Pisando Fuerte</string>
+			<key>Artist</key><string>Alejandro Sanz</string>
+			<key>Album Artist</key><string>Alejandro Sanz</string>
+			<key>Composer</key><string>Alejandro Sanz</string>
+			<key>Album</key><string>Grandes Exitos 1991-2004 (Superdeluxe Edition)</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9434920</integer>
+			<key>Total Time</key><integer>269810</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-07-01T16:21:29Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3395386621</integer>
+			<key>Play Date UTC</key><date>2011-08-05T15:57:01Z</date>
+			<key>Release Date</key><date>2004-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A24D4B12790C348F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Sanz/Grandes%20Exitos%201991-2004%20(Superdeluxe%20Ed/1-10%20Pisando%20Fuerte.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>170</key>
+		<dict>
+			<key>Track ID</key><integer>170</integer>
+			<key>Name</key><string>Aquello Que Me Diste</string>
+			<key>Artist</key><string>Alejandro Sanz</string>
+			<key>Album Artist</key><string>Alejandro Sanz</string>
+			<key>Album</key><string>Alejandro Sanz: Grandes Exitos 1997-2004</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9833450</integer>
+			<key>Total Time</key><integer>285520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-04-24T20:18:24Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3396433768</integer>
+			<key>Play Date UTC</key><date>2011-08-17T18:49:28Z</date>
+			<key>Release Date</key><date>2004-11-30T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>174854E6546AAE2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Sanz/Alejandro%20Sanz_%20Grandes%20Exitos%201997-2004/05%20Aquello%20Que%20Me%20Diste.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172</key>
+		<dict>
+			<key>Track ID</key><integer>172</integer>
+			<key>Name</key><string>Los Dos Cogidos de la Mano</string>
+			<key>Artist</key><string>Alejandro Sanz</string>
+			<key>Album Artist</key><string>Alejandro Sanz</string>
+			<key>Composer</key><string>Alejandro Sanz</string>
+			<key>Album</key><string>Grandes Exitos 1991-2004 (Superdeluxe Edition)</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>10268827</integer>
+			<key>Total Time</key><integer>292655</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-07-01T16:21:32Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3395386351</integer>
+			<key>Play Date UTC</key><date>2011-08-05T15:52:31Z</date>
+			<key>Release Date</key><date>2004-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Dos Cogidos de la Mano</string>
+			<key>Persistent ID</key><string>50480C9054E3644A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Sanz/Grandes%20Exitos%201991-2004%20(Superdeluxe%20Ed/1-13%20Los%20Dos%20Cogidos%20de%20la%20Mano.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>176</key>
+		<dict>
+			<key>Track ID</key><integer>176</integer>
+			<key>Name</key><string>Don Diablo</string>
+			<key>Artist</key><string>Miguel Bosé</string>
+			<key>Album Artist</key><string>Miguel Bosé</string>
+			<key>Composer</key><string>Miguel Bosé, Sandy Linzer &#38; L. Rosell-Brown</string>
+			<key>Album</key><string>Bravo Bosé: 30 Grandes Exitos</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8438732</integer>
+			<key>Total Time</key><integer>222259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2011-08-30T00:04:50Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3394983231</integer>
+			<key>Play Date UTC</key><date>2011-07-31T23:53:51Z</date>
+			<key>Release Date</key><date>1999-10-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D4C65AA5C549BD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Miguel%20Bos%C3%A9/Bravo%20Bos%C3%A9_%2030%20Grandes%20Exitos/1-05%20Don%20Diablo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>178</key>
+		<dict>
+			<key>Track ID</key><integer>178</integer>
+			<key>Name</key><string>Horizonte de las Estrellas</string>
+			<key>Artist</key><string>Miguel Bosé</string>
+			<key>Album Artist</key><string>Miguel Bosé</string>
+			<key>Composer</key><string>Miguel Bosé, R. Colombo, E. Aldrigheti &#38; O. Avogadro</string>
+			<key>Album</key><string>Lo Esencial de... Bosé</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9222382</integer>
+			<key>Total Time</key><integer>251655</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2012-07-01T16:27:14Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3395042645</integer>
+			<key>Play Date UTC</key><date>2011-08-01T16:24:05Z</date>
+			<key>Release Date</key><date>2001-11-20T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E4CFB9E0FD72616</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Miguel%20Bos%C3%A9/Lo%20Esencial%20de...%20Bos%C3%A9/1-05%20Horizonte%20de%20las%20Estrellas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>180</key>
+		<dict>
+			<key>Track ID</key><integer>180</integer>
+			<key>Name</key><string>Tengo Todo Excepto a Ti</string>
+			<key>Artist</key><string>Luis Miguel</string>
+			<key>Album Artist</key><string>Luis Miguel</string>
+			<key>Album</key><string>Grandes Exitos</string>
+			<key>Genre</key><string>Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9396011</integer>
+			<key>Total Time</key><integer>272826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-08-30T00:04:55Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3397235299</integer>
+			<key>Play Date UTC</key><date>2011-08-27T01:28:19Z</date>
+			<key>Release Date</key><date>2005-12-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C4E2A561651EC48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Luis%20Miguel/Grandes%20Exitos/1-07%20Tengo%20Todo%20Excepto%20a%20Ti.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>182</key>
+		<dict>
+			<key>Track ID</key><integer>182</integer>
+			<key>Name</key><string>Hasta Que Me Olvides</string>
+			<key>Artist</key><string>Luis Miguel</string>
+			<key>Album Artist</key><string>Luis Miguel</string>
+			<key>Album</key><string>Grandes Exitos</string>
+			<key>Genre</key><string>Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9646394</integer>
+			<key>Total Time</key><integer>281000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-08-30T00:04:58Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3397234592</integer>
+			<key>Play Date UTC</key><date>2011-08-27T01:16:32Z</date>
+			<key>Release Date</key><date>2005-12-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B743626DA934E85C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Luis%20Miguel/Grandes%20Exitos/1-12%20Hasta%20Que%20Me%20Olvides.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>184</key>
+		<dict>
+			<key>Track ID</key><integer>184</integer>
+			<key>Name</key><string>Por Debajo de la Mesa</string>
+			<key>Artist</key><string>Luis Miguel</string>
+			<key>Album Artist</key><string>Luis Miguel</string>
+			<key>Album</key><string>Grandes Exitos</string>
+			<key>Genre</key><string>Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>6503511</integer>
+			<key>Total Time</key><integer>182186</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:00Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3395043668</integer>
+			<key>Play Date UTC</key><date>2011-08-01T16:41:08Z</date>
+			<key>Release Date</key><date>2005-12-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC4F2DA9A27A99EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Luis%20Miguel/Grandes%20Exitos/2-04%20Por%20Debajo%20de%20la%20Mesa.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>186</key>
+		<dict>
+			<key>Track ID</key><integer>186</integer>
+			<key>Name</key><string>O Tu O Ninguna</string>
+			<key>Artist</key><string>Luis Miguel</string>
+			<key>Album Artist</key><string>Luis Miguel</string>
+			<key>Album</key><string>Grandes Exitos</string>
+			<key>Genre</key><string>Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>6931519</integer>
+			<key>Total Time</key><integer>196333</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:02Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3395386058</integer>
+			<key>Play Date UTC</key><date>2011-08-05T15:47:38Z</date>
+			<key>Release Date</key><date>2005-12-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E148BC8292E6787D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Luis%20Miguel/Grandes%20Exitos/2-06%20O%20Tu%20O%20Ninguna.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>188</key>
+		<dict>
+			<key>Track ID</key><integer>188</integer>
+			<key>Name</key><string>La Chula</string>
+			<key>Artist</key><string>Miguel Bosé</string>
+			<key>Album Artist</key><string>Miguel Bosé</string>
+			<key>Composer</key><string>Miguel Bosé &#38; R. Girón</string>
+			<key>Album</key><string>Lo Esencial de... Bosé</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8223069</integer>
+			<key>Total Time</key><integer>224336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2012-07-01T16:27:14Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3397287163</integer>
+			<key>Play Date UTC</key><date>2011-08-27T15:52:43Z</date>
+			<key>Release Date</key><date>2001-11-20T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Chula</string>
+			<key>Persistent ID</key><string>174EA43E4ADB2E2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Miguel%20Bos%C3%A9/Lo%20Esencial%20de...%20Bos%C3%A9/1-03%20La%20Chula.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>190</key>
+		<dict>
+			<key>Track ID</key><integer>190</integer>
+			<key>Name</key><string>Adelante Corazon</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Defelisatti &#38; Daniela Romo</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8290649</integer>
+			<key>Total Time</key><integer>239182</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:07Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3397233771</integer>
+			<key>Play Date UTC</key><date>2011-08-27T01:02:51Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5842EDC0E62DEDCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/01%20Adelante%20Corazon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>192</key>
+		<dict>
+			<key>Track ID</key><integer>192</integer>
+			<key>Name</key><string>Acariciame</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Juan Carlos Calderon</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7545759</integer>
+			<key>Total Time</key><integer>222179</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:09Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395046209</integer>
+			<key>Play Date UTC</key><date>2011-08-01T17:23:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:14:18Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F448BC2D1252112</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/02%20Acariciame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>194</key>
+		<dict>
+			<key>Track ID</key><integer>194</integer>
+			<key>Name</key><string>No Soy una Señora (Non Sono Una Signora)</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Ivanno Fossati</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>6990151</integer>
+			<key>Total Time</key><integer>208565</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:11Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Non Sono Una Signora)</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3395387615</integer>
+			<key>Play Date UTC</key><date>2011-08-05T16:13:35Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB4676F9829C76B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/03%20No%20Soy%20una%20Se%C3%B1ora%20(Non%20Sono%20Una%20S.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>196</key>
+		<dict>
+			<key>Track ID</key><integer>196</integer>
+			<key>Name</key><string>Y Aqui Estoy</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Ana Gabriel</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8028538</integer>
+			<key>Total Time</key><integer>232160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:13Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395305594</integer>
+			<key>Play Date UTC</key><date>2011-08-04T17:26:34Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B34559B96A6360E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/04%20Y%20Aqui%20Estoy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>198</key>
+		<dict>
+			<key>Track ID</key><integer>198</integer>
+			<key>Name</key><string>Mi Amor Amor</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Honorio Herrero</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>6858089</integer>
+			<key>Total Time</key><integer>198556</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:15Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395306393</integer>
+			<key>Play Date UTC</key><date>2011-08-04T17:39:53Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7541F52DB637C46D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/05%20Mi%20Amor%20Amor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>200</key>
+		<dict>
+			<key>Track ID</key><integer>200</integer>
+			<key>Name</key><string>Sola No, Yo No Se Estar</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Luigi Albertelli &#38; Vicenzo Malepasso</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7657289</integer>
+			<key>Total Time</key><integer>219270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:18Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395042393</integer>
+			<key>Play Date UTC</key><date>2011-08-01T16:19:53Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF4ADD250FED2AE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/07%20Sola%20No,%20Yo%20No%20Se%20Estar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>202</key>
+		<dict>
+			<key>Track ID</key><integer>202</integer>
+			<key>Name</key><string>Este Hombre No Se Toca</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Defelisatti &#38; J. R. Florez</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8217205</integer>
+			<key>Total Time</key><integer>238283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:20Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3397286766</integer>
+			<key>Play Date UTC</key><date>2011-08-27T15:46:06Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC417EB27DC1DB6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/08%20Este%20Hombre%20No%20Se%20Toca.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>204</key>
+		<dict>
+			<key>Track ID</key><integer>204</integer>
+			<key>Name</key><string>Herida de Muerte</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Amparo Rubi</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>6539412</integer>
+			<key>Total Time</key><integer>185961</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:21Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395331515</integer>
+			<key>Play Date UTC</key><date>2011-08-05T00:38:35Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>634C7B86AE6DDC01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/09%20Herida%20de%20Muerte.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>206</key>
+		<dict>
+			<key>Track ID</key><integer>206</integer>
+			<key>Name</key><string>Frente a Frente</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Manuel Alejandro &#38; Ana Magdalena</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7168676</integer>
+			<key>Total Time</key><integer>209651</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:23Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3397234802</integer>
+			<key>Play Date UTC</key><date>2011-08-27T01:20:02Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>494B8C4EF1C82770</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/10%20Frente%20a%20Frente.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>208</key>
+		<dict>
+			<key>Track ID</key><integer>208</integer>
+			<key>Name</key><string>No Me Pregunten Por El</string>
+			<key>Artist</key><string>Mariajosé</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Composer</key><string>Sergio Andrade</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7679866</integer>
+			<key>Total Time</key><integer>224872</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:25Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3395044102</integer>
+			<key>Play Date UTC</key><date>2011-08-01T16:48:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:14:10Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>114F9642D6100DFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/11%20No%20Me%20Pregunten%20Por%20El.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>210</key>
+		<dict>
+			<key>Track ID</key><integer>210</integer>
+			<key>Name</key><string>Cosas del Amor</string>
+			<key>Artist</key><string>Mariajosé &#38; Edith Márquez</string>
+			<key>Album Artist</key><string>Mariajosé</string>
+			<key>Album</key><string>Amante de Lo Ajeno</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8379545</integer>
+			<key>Total Time</key><integer>245867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:27Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395386867</integer>
+			<key>Play Date UTC</key><date>2011-08-05T16:01:07Z</date>
+			<key>Release Date</key><date>2009-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A4475451058DD98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Mariajos%C3%A9/Amante%20de%20Lo%20Ajeno/06%20Cosas%20del%20Amor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>212</key>
+		<dict>
+			<key>Track ID</key><integer>212</integer>
+			<key>Name</key><string>Te Amo</string>
+			<key>Artist</key><string>Alexander Acha</string>
+			<key>Album Artist</key><string>Alexander Acha</string>
+			<key>Album</key><string>Voy</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7989735</integer>
+			<key>Total Time</key><integer>233493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-07-01T16:23:42Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3399400731</integer>
+			<key>Play Date UTC</key><date>2011-09-21T02:58:51Z</date>
+			<key>Release Date</key><date>2008-08-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>014B1A389842D890</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alexander%20Acha/Voy/03%20Te%20Amo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>214</key>
+		<dict>
+			<key>Track ID</key><integer>214</integer>
+			<key>Name</key><string>Cuando Duermes</string>
+			<key>Artist</key><string>Cómplices</string>
+			<key>Album Artist</key><string>Cómplices</string>
+			<key>Composer</key><string>Teo Cardalda, C. de Framce, J.M. Bravo &#38; M. Monsonis</string>
+			<key>Album</key><string>Complicidad</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>10403273</integer>
+			<key>Total Time</key><integer>300960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-07-01T16:24:44Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3456994040</integer>
+			<key>Play Date UTC</key><date>2013-07-18T17:07:20Z</date>
+			<key>Release Date</key><date>2000-02-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D34309CF33780522</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/C%C3%B3mplices/Complicidad/02%20Cuando%20Duermes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>216</key>
+		<dict>
+			<key>Track ID</key><integer>216</integer>
+			<key>Name</key><string>Si He Sabido Amor</string>
+			<key>Artist</key><string>Alejandro Fernández</string>
+			<key>Album Artist</key><string>Alejandro Fernández</string>
+			<key>Composer</key><string>H. Estrada</string>
+			<key>Album</key><string>Alejandro Fernández: 15 Años de Exitos</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8433028</integer>
+			<key>Total Time</key><integer>233983</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2012-04-15T21:26:40Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3399400497</integer>
+			<key>Play Date UTC</key><date>2011-09-21T02:54:57Z</date>
+			<key>Release Date</key><date>2003-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8945C6CF49C5DA21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alejandro%20Fern%C3%A1ndez/Alejandro%20Fern%C3%A1ndez_%2015%20A%C3%B1os%20de%20Exitos/10%20Si%20He%20Sabido%20Amor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>218</key>
+		<dict>
+			<key>Track ID</key><integer>218</integer>
+			<key>Name</key><string>No Basta (Live)</string>
+			<key>Artist</key><string>Franco de Vita</string>
+			<key>Album Artist</key><string>Franco de Vita</string>
+			<key>Composer</key><string>Franco de Vita</string>
+			<key>Album</key><string>Franco de Vita en Primera Fila (Deluxe Edition) [Live]</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>12647448</integer>
+			<key>Total Time</key><integer>356080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-07-01T16:25:31Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Live)</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3397287702</integer>
+			<key>Play Date UTC</key><date>2011-08-27T16:01:42Z</date>
+			<key>Release Date</key><date>2011-05-30T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A4FD7E890E36C27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Franco%20de%20Vita/Franco%20de%20Vita%20en%20Primera%20Fila%20(Deluxe%20E/18%20No%20Basta%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>220</key>
+		<dict>
+			<key>Track ID</key><integer>220</integer>
+			<key>Name</key><string>La Cosa Mas Bella</string>
+			<key>Artist</key><string>Eros Ramazzotti</string>
+			<key>Album Artist</key><string>Eros Ramazzotti</string>
+			<key>Composer</key><string>Adelio Cogliati/Eros Ramazzotti/Piero Cassano</string>
+			<key>Album</key><string>Eros</string>
+			<key>Genre</key><string>Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9115661</integer>
+			<key>Total Time</key><integer>264706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-07-01T16:25:14Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3397293516</integer>
+			<key>Play Date UTC</key><date>2011-08-27T17:38:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:13:40Z</date>
+			<key>Release Date</key><date>1997-10-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Cosa Mas Bella</string>
+			<key>Persistent ID</key><string>804C2E75BD1E6BE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Eros%20Ramazzotti/Eros/07%20La%20Cosa%20Mas%20Bella.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>222</key>
+		<dict>
+			<key>Track ID</key><integer>222</integer>
+			<key>Name</key><string>Quisiera Saber (Versión Acústica) [feat. Natalia Lafourcade]</string>
+			<key>Artist</key><string>Los Daniels</string>
+			<key>Album Artist</key><string>Los Daniels</string>
+			<key>Composer</key><string>Carlos Alberto  Palomares González, Carlos Alfonso Diaz Chavez, Ismael Guillermo Salcedo Ortiz, Judha Rasheed Alejandro Duran Téllez &#38; Rene Joel Lugo Tapia</string>
+			<key>Album</key><string>A Casa</string>
+			<key>Genre</key><string>Alternativo y Rock Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7525676</integer>
+			<key>Total Time</key><integer>207186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-07-01T16:26:06Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3397287911</integer>
+			<key>Play Date UTC</key><date>2011-08-27T16:05:11Z</date>
+			<key>Release Date</key><date>2011-06-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Casa</string>
+			<key>Sort Album Artist</key><string>Daniels</string>
+			<key>Sort Artist</key><string>Daniels</string>
+			<key>Persistent ID</key><string>4F43CBAE744473C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Los%20Daniels/A%20Casa/19%20Quisiera%20Saber%20(Versi%C3%B3n%20Ac%C3%BAstica).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>224</key>
+		<dict>
+			<key>Track ID</key><integer>224</integer>
+			<key>Name</key><string>Lucha De Gigantes</string>
+			<key>Artist</key><string>Nacha Pop</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Amores Perros (Soundtrack from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>8369864</integer>
+			<key>Total Time</key><integer>239800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:51Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-11-21T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>874C38792D75134C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Compilations/Amores%20Perros%20(Soundtrack%20from%20the%20Motio/1-03%20Lucha%20De%20Gigantes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>226</key>
+		<dict>
+			<key>Track ID</key><integer>226</integer>
+			<key>Name</key><string>Amiga</string>
+			<key>Artist</key><string>Alexander Acha</string>
+			<key>Album Artist</key><string>Alexander Acha</string>
+			<key>Composer</key><string>Alexander Acha &#38; Yoel Enríquez</string>
+			<key>Album</key><string>Amiga - Single</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>7180014</integer>
+			<key>Total Time</key><integer>195746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-30T00:05:54Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-05-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>784B6C8E6B5FF9C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Alexander%20Acha/Amiga%20-%20Single/01%20Amiga.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>228</key>
+		<dict>
+			<key>Track ID</key><integer>228</integer>
+			<key>Name</key><string>Pobre Diablo</string>
+			<key>Artist</key><string>Emmanuel</string>
+			<key>Album Artist</key><string>Emmanuel</string>
+			<key>Composer</key><string>Manuel Alejandro &#38; Ana Magdalena</string>
+			<key>Album</key><string>Retro / En Vivo</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Audio AAC comprado</string>
+			<key>Size</key><integer>9561445</integer>
+			<key>Total Time</key><integer>267627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2012-07-01T16:25:00Z</date>
+			<key>Date Added</key><date>2011-08-29T23:04:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Live)</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456999267</integer>
+			<key>Play Date UTC</key><date>2013-07-18T18:34:27Z</date>
+			<key>Release Date</key><date>2007-12-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>254C3ACD75133603</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Emmanuel/Retro%20_%20En%20Vivo/07%20Pobre%20Diablo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>230</key>
+		<dict>
+			<key>Track ID</key><integer>230</integer>
+			<key>Name</key><string>Bazar</string>
+			<key>Artist</key><string>Flans</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>C. Lara/J. Monarrez</string>
+			<key>Album</key><string>Como Te Extrano: Pop</string>
+			<key>Genre</key><string>Latina</string>
+			<key>Kind</key><string>Audio MPEG</string>
+			<key>Size</key><integer>3295693</integer>
+			<key>Total Time</key><integer>205688</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2010-12-20T22:53:01Z</date>
+			<key>Date Added</key><date>2011-09-12T01:08:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>328218A2D56A9C5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/flans%20-%20bazar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>232</key>
+		<dict>
+			<key>Track ID</key><integer>232</integer>
+			<key>Name</key><string>Espacio Sideral</string>
+			<key>Artist</key><string>Jesse y Joy</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7312889</integer>
+			<key>Total Time</key><integer>221680</integer>
+			<key>Date Modified</key><date>2013-07-18T16:16:20Z</date>
+			<key>Date Added</key><date>2013-07-18T16:15:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456989616</integer>
+			<key>Play Date UTC</key><date>2013-07-18T15:53:36Z</date>
+			<key>Persistent ID</key><string>F62936638ACB25DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Jesse%20y%20Joy/Unknown%20Album/Espacio%20Sideral.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>234</key>
+		<dict>
+			<key>Track ID</key><integer>234</integer>
+			<key>Name</key><string>El Perrito</string>
+			<key>Artist</key><string>Cri Crí (Francisco Gabilondo Soler)</string>
+			<key>Album</key><string>Amigos de Pelo y Pluma</string>
+			<key>Genre</key><string>default</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>299008</integer>
+			<key>Total Time</key><integer>148480</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2010-04-12T22:16:56Z</date>
+			<key>Date Added</key><date>2013-07-18T16:18:54Z</date>
+			<key>Bit Rate</key><integer>16</integer>
+			<key>Sample Rate</key><integer>11025</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456994337</integer>
+			<key>Play Date UTC</key><date>2013-07-18T17:12:17Z</date>
+			<key>Sort Name</key><string>Perrito</string>
+			<key>Persistent ID</key><string>3F7C39940DA47BBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Cri%20Cri/04.ElPerrito.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>236</key>
+		<dict>
+			<key>Track ID</key><integer>236</integer>
+			<key>Name</key><string>Hermoso cariño</string>
+			<key>Artist</key><string>Vicente Fernandez</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>2465654</integer>
+			<key>Total Time</key><integer>154435</integer>
+			<key>Date Modified</key><date>2012-07-01T16:46:59Z</date>
+			<key>Date Added</key><date>2013-07-18T16:44:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5D5590B2CF011387</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/hermoso%20cari%C3%B1o.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>238</key>
+		<dict>
+			<key>Track ID</key><integer>238</integer>
+			<key>Name</key><string>las ardillitas de lalo guerrero - los dientes de panfilo</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>3432246</integer>
+			<key>Total Time</key><integer>214491</integer>
+			<key>Date Modified</key><date>2010-12-21T20:13:35Z</date>
+			<key>Date Added</key><date>2013-07-18T16:46:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>ardillitas de lalo guerrero - los dientes de panfilo</string>
+			<key>Persistent ID</key><string>21C45C7B56238BB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/las%20ardillitas%20de%20lalo%20guerrero%20-%20los%20dientes%20de%20panfilo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>240</key>
+		<dict>
+			<key>Track ID</key><integer>240</integer>
+			<key>Name</key><string>villancicos-canciones infantiles - la navidad de las ardillitas</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>1114309</integer>
+			<key>Total Time</key><integer>69564</integer>
+			<key>Date Modified</key><date>2010-12-21T20:18:01Z</date>
+			<key>Date Added</key><date>2013-07-18T16:48:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3465131290</integer>
+			<key>Play Date UTC</key><date>2013-10-20T21:28:10Z</date>
+			<key>Persistent ID</key><string>C493057D4B4C37D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/villancicos-canciones%20infantiles%20-%20la%20navidad%20de%20las%20ardillitas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>242</key>
+		<dict>
+			<key>Track ID</key><integer>242</integer>
+			<key>Name</key><string>Asi se eu te pego</string>
+			<key>Artist</key><string>Michel Telo</string>
+			<key>Album Artist</key><string>NOEMBALO.COM o melhor do sertanejo está aqui.;</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5307453</integer>
+			<key>Total Time</key><integer>165903</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-07-01T16:48:14Z</date>
+			<key>Date Added</key><date>2013-07-18T16:49:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3467467445</integer>
+			<key>Play Date UTC</key><date>2013-11-16T22:24:05Z</date>
+			<key>Persistent ID</key><string>BC849EA123A23E74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/michel_telo_-_ai_se_eu_te_pego(2).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>244</key>
+		<dict>
+			<key>Track ID</key><integer>244</integer>
+			<key>Name</key><string>Asi se eu te pego</string>
+			<key>Artist</key><string>Michel Telo</string>
+			<key>Album Artist</key><string>NOEMBALO.COM o melhor do sertanejo está aqui.;</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5479343</integer>
+			<key>Total Time</key><integer>165840</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-07-18T16:49:46Z</date>
+			<key>Date Added</key><date>2013-07-18T16:49:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>48A8AAA16BF13DE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/NOEMBALO.COM%20o%20melhor%20do%20sertanejo%20est%C3%A1/Unknown%20Album/Asi%20se%20eu%20te%20pego.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>246</key>
+		<dict>
+			<key>Track ID</key><integer>246</integer>
+			<key>Name</key><string>La mayonesa</string>
+			<key>Artist</key><string>Luis Maria Pescetti</string>
+			<key>Album Artist</key><string>Luis Pescetti</string>
+			<key>Album</key><string>Cassette Pirata</string>
+			<key>Genre</key><string>Misc</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5237561</integer>
+			<key>Total Time</key><integer>163526</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2011-03-14T23:22:27Z</date>
+			<key>Date Added</key><date>2013-07-18T18:27:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456998999</integer>
+			<key>Play Date UTC</key><date>2013-07-18T18:29:59Z</date>
+			<key>Sort Name</key><string>mayonesa</string>
+			<key>Persistent ID</key><string>BAA29119B0E27AD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/14%20la%20mayonesa(2)(2).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>248</key>
+		<dict>
+			<key>Track ID</key><integer>248</integer>
+			<key>Name</key><string>1 musica infantil tatiana - el patio de mi casa 1</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>2595000</integer>
+			<key>Total Time</key><integer>162168</integer>
+			<key>Date Modified</key><date>2011-03-14T23:18:58Z</date>
+			<key>Date Added</key><date>2013-07-18T18:40:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5517FC39CC854687</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/canciones%20%20montse/1%20musica%20infantil%20tatiana%20-%20el%20patio%20de%20mi%20casa%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>250</key>
+		<dict>
+			<key>Track ID</key><integer>250</integer>
+			<key>Name</key><string>we are the world</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6714514</integer>
+			<key>Total Time</key><integer>419657</integer>
+			<key>Date Modified</key><date>2012-07-02T21:48:52Z</date>
+			<key>Date Added</key><date>2013-07-18T18:41:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8E15F105AE3DDA19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/we%20are%20the%20world.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>252</key>
+		<dict>
+			<key>Track ID</key><integer>252</integer>
+			<key>Name</key><string>we are the world</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13899389</integer>
+			<key>Total Time</key><integer>419600</integer>
+			<key>Date Modified</key><date>2013-07-18T18:43:40Z</date>
+			<key>Date Added</key><date>2013-07-18T18:42:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D34ECB949DA908FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/we%20are%20the%20world.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>254</key>
+		<dict>
+			<key>Track ID</key><integer>254</integer>
+			<key>Name</key><string>Fiesta</string>
+			<key>Artist</key><string>Laura Esquivel</string>
+			<key>Album</key><string>Patito Feo, La historia más linda</string>
+			<key>Genre</key><string>Banda Sonora</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8356179</integer>
+			<key>Total Time</key><integer>208848</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2010-11-14T18:06:06Z</date>
+			<key>Date Added</key><date>2013-07-18T18:43:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string> 00000000 00000210 00000970 000000000098EB80 00000000 007F5A80 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Persistent ID</key><string>5C144497431C45F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/canciones%20%20montse/2%20fiesta204.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>256</key>
+		<dict>
+			<key>Track ID</key><integer>256</integer>
+			<key>Name</key><string>one direction - what makes you beautiful</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6639291</integer>
+			<key>Total Time</key><integer>202413</integer>
+			<key>Date Modified</key><date>2013-07-18T18:50:57Z</date>
+			<key>Date Added</key><date>2013-07-18T18:50:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9A00BA7F11A2DCB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/one%20direction%20-%20what%20makes%20you%20beaut.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>258</key>
+		<dict>
+			<key>Track ID</key><integer>258</integer>
+			<key>Name</key><string>Kiss You</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album Artist</key><string>One Direction</string>
+			<key>Album</key><string>Take Me Home</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>2955552</integer>
+			<key>Total Time</key><integer>184398</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-07-18T17:38:02Z</date>
+			<key>Date Added</key><date>2013-07-18T18:53:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C999A5B8791D6D37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/kiss%20you(2).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>260</key>
+		<dict>
+			<key>Track ID</key><integer>260</integer>
+			<key>Name</key><string>Kiss You</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album Artist</key><string>One Direction</string>
+			<key>Album</key><string>Take Me Home</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6026594</integer>
+			<key>Total Time</key><integer>184373</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-07-18T18:54:15Z</date>
+			<key>Date Added</key><date>2013-07-18T18:53:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3467466143</integer>
+			<key>Play Date UTC</key><date>2013-11-16T22:02:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:12:04Z</date>
+			<key>Persistent ID</key><string>5BF6175A389BB4A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/One%20Direction/Take%20Me%20Home/02%20Kiss%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>262</key>
+		<dict>
+			<key>Track ID</key><integer>262</integer>
+			<key>Name</key><string>La Chula</string>
+			<key>Artist</key><string>Miguel Bosé</string>
+			<key>Album Artist</key><string>Miguel Bosé</string>
+			<key>Composer</key><string>Miguel Bosé &#38; R. Girón</string>
+			<key>Album</key><string>Lo Esencial de... Bosé</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7682257</integer>
+			<key>Total Time</key><integer>224336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-20T21:40:18Z</date>
+			<key>Date Added</key><date>2013-07-18T19:05:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3397287163</integer>
+			<key>Play Date UTC</key><date>2011-08-27T15:52:43Z</date>
+			<key>Release Date</key><date>2001-11-20T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Chula</string>
+			<key>Persistent ID</key><string>363BEADBB92ADE2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Miguel%20Bos%C3%A9/Lo%20Esencial%20de...%20Bos%C3%A9/1-03%20La%20Chula%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>264</key>
+		<dict>
+			<key>Track ID</key><integer>264</integer>
+			<key>Name</key><string>Cuando Duermes</string>
+			<key>Artist</key><string>Cómplices</string>
+			<key>Album Artist</key><string>Cómplices</string>
+			<key>Composer</key><string>Teo Cardalda, C. de Framce, J.M. Bravo &#38; M. Monsonis</string>
+			<key>Album</key><string>Complicidad</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10494512</integer>
+			<key>Total Time</key><integer>300960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-07-18T19:07:06Z</date>
+			<key>Date Added</key><date>2013-07-18T19:06:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3456994040</integer>
+			<key>Play Date UTC</key><date>2013-07-18T17:07:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:11:43Z</date>
+			<key>Release Date</key><date>2000-02-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8ACA288FE4B4F255</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/C%C3%B3mplices/Complicidad/02%20Cuando%20Duermes%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>266</key>
+		<dict>
+			<key>Track ID</key><integer>266</integer>
+			<key>Name</key><string>one direction - one way or another</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>3065301</integer>
+			<key>Total Time</key><integer>191555</integer>
+			<key>Date Modified</key><date>2013-07-18T18:51:38Z</date>
+			<key>Date Added</key><date>2013-07-18T19:07:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:12:32Z</date>
+			<key>Persistent ID</key><string>055AE684F71BDA25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/one%20direction%20-%20one%20way%20or%20another.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>268</key>
+		<dict>
+			<key>Track ID</key><integer>268</integer>
+			<key>Name</key><string>one direction - one way or another</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6416188</integer>
+			<key>Total Time</key><integer>191507</integer>
+			<key>Date Modified</key><date>2013-07-18T19:09:25Z</date>
+			<key>Date Added</key><date>2013-07-18T19:08:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>635F124381B5BC31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/one%20direction%20-%20one%20way%20or%20another.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>270</key>
+		<dict>
+			<key>Track ID</key><integer>270</integer>
+			<key>Name</key><string>One Way or Another (Teenage Kicks)</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album</key><string>One Way or Another (Teenage Kicks) - Single</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6363579</integer>
+			<key>Total Time</key><integer>158976</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-07-18T19:12:46Z</date>
+			<key>Date Added</key><date>2013-07-18T19:13:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>408900EE358C4E6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/owoa%201d.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>272</key>
+		<dict>
+			<key>Track ID</key><integer>272</integer>
+			<key>Name</key><string>One Way or Another (Teenage Kicks)</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album</key><string>One Way or Another (Teenage Kicks) - Single</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5229826</integer>
+			<key>Total Time</key><integer>158953</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-07-18T19:13:56Z</date>
+			<key>Date Added</key><date>2013-07-18T19:13:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:13:24Z</date>
+			<key>Persistent ID</key><string>A73D26ECDB2F1E2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/One%20Direction/One%20Way%20or%20Another%20(Teenage%20Kicks)%20-%20Sin/01%20One%20Way%20or%20Another%20(Teenage%20Kicks.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>274</key>
+		<dict>
+			<key>Track ID</key><integer>274</integer>
+			<key>Name</key><string> EL RATON VAQUERO</string>
+			<key>Artist</key><string>Cri-Cri</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6078647</integer>
+			<key>Total Time</key><integer>184440</integer>
+			<key>Date Modified</key><date>2013-07-18T16:17:35Z</date>
+			<key>Date Added</key><date>2013-09-23T00:35:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>RATON VAQUERO</string>
+			<key>Persistent ID</key><string>C0FE3B852A576240</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Cri-Cri/Unknown%20Album/_EL%20RATON%20VAQUERO.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>276</key>
+		<dict>
+			<key>Track ID</key><integer>276</integer>
+			<key>Name</key><string>villancicos-canciones infantiles - la navidad de las ardillitas</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>2266212</integer>
+			<key>Total Time</key><integer>69493</integer>
+			<key>Date Modified</key><date>2013-10-20T21:27:55Z</date>
+			<key>Date Added</key><date>2013-10-20T21:27:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:12:09Z</date>
+			<key>Persistent ID</key><string>3EA1B5FCFD465C08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/villancicos-canciones%20infantiles%20-%20l.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>278</key>
+		<dict>
+			<key>Track ID</key><integer>278</integer>
+			<key>Name</key><string>04 - musica infantil espanhola - canciones infantiles - la cucaracha</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>3936340</integer>
+			<key>Total Time</key><integer>246021</integer>
+			<key>Date Modified</key><date>2010-11-14T17:46:13Z</date>
+			<key>Date Added</key><date>2013-10-20T21:29:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F3844976179BEFE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/04%20-%20musica%20infantil%20espanhola%20-%20canciones%20infantiles%20-%20la%20cucaracha.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>280</key>
+		<dict>
+			<key>Track ID</key><integer>280</integer>
+			<key>Name</key><string>villancicos-canciones infantiles - la navidad de las ardillitas</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>2276201</integer>
+			<key>Total Time</key><integer>69493</integer>
+			<key>Date Modified</key><date>2013-10-20T21:30:37Z</date>
+			<key>Date Added</key><date>2013-10-20T21:30:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>72270EB23D1AE77C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/villancicos-canciones%20infantiles%20-%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>282</key>
+		<dict>
+			<key>Track ID</key><integer>282</integer>
+			<key>Name</key><string>04 - musica infantil espanhola - canciones infantiles - la cucaracha</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8314362</integer>
+			<key>Total Time</key><integer>245960</integer>
+			<key>Date Modified</key><date>2013-10-20T21:31:59Z</date>
+			<key>Date Added</key><date>2013-10-20T21:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-11-16T22:24:58Z</date>
+			<key>Persistent ID</key><string>0C010FFC73155BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/04%20-%20musica%20infantil%20espanhola%20-%20can.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>284</key>
+		<dict>
+			<key>Track ID</key><integer>284</integer>
+			<key>Name</key><string>la gallina cocogua</string>
+			<key>Artist</key><string>cepillin</string>
+			<key>Album Artist</key><string>Cepillin</string>
+			<key>Composer</key><string>Cepillin</string>
+			<key>Album</key><string>cepillin</string>
+			<key>Genre</key><string>infantil</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>2747762</integer>
+			<key>Total Time</key><integer>171833</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2011-03-14T23:40:50Z</date>
+			<key>Date Added</key><date>2013-10-20T21:31:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-16T22:14:30Z</date>
+			<key>Sort Name</key><string>gallina cocogua</string>
+			<key>Persistent ID</key><string>AFCCBB888AA6B4B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/06%20la%20gallina%20cocogua(2).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>286</key>
+		<dict>
+			<key>Track ID</key><integer>286</integer>
+			<key>Name</key><string>la gallina cocogua</string>
+			<key>Artist</key><string>cepillin</string>
+			<key>Album Artist</key><string>Cepillin</string>
+			<key>Composer</key><string>Cepillin</string>
+			<key>Album</key><string>cepillin</string>
+			<key>Genre</key><string>infantil</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5562224</integer>
+			<key>Total Time</key><integer>171800</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-20T21:32:43Z</date>
+			<key>Date Added</key><date>2013-10-20T21:32:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>gallina cocogua</string>
+			<key>Persistent ID</key><string>D2CBC5A0ECE8E2A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Cepillin/cepillin/06%20la%20gallina%20cocogua.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>288</key>
+		<dict>
+			<key>Track ID</key><integer>288</integer>
+			<key>Name</key><string>El Grillito Cri Cri Cri</string>
+			<key>Artist</key><string>Maria Elena Walsh</string>
+			<key>Album Artist</key><string>Rosa Leon</string>
+			<key>Composer</key><string>Sin Autor</string>
+			<key>Album</key><string>Canciones infantiles</string>
+			<key>Genre</key><string>Otros</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>2457600</integer>
+			<key>Total Time</key><integer>153443</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-11-14T17:29:23Z</date>
+			<key>Date Added</key><date>2013-10-20T21:34:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Grillito Cri Cri Cri</string>
+			<key>Persistent ID</key><string>100CFB65274785A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/08%20-%20el%20grillito%20cri%20cri%20cri(2)%20-%20copy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>290</key>
+		<dict>
+			<key>Track ID</key><integer>290</integer>
+			<key>Name</key><string>El Grillito Cri Cri Cri</string>
+			<key>Artist</key><string>Maria Elena Walsh</string>
+			<key>Album Artist</key><string>Rosa Leon</string>
+			<key>Composer</key><string>Sin Autor</string>
+			<key>Album</key><string>Canciones infantiles</string>
+			<key>Genre</key><string>Otros</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5031558</integer>
+			<key>Total Time</key><integer>153413</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-20T21:34:52Z</date>
+			<key>Date Added</key><date>2013-10-20T21:34:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Grillito Cri Cri Cri</string>
+			<key>Persistent ID</key><string>C9184D47E0FBA5CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Rosa%20Leon/Canciones%20infantiles/08%20El%20Grillito%20Cri%20Cri%20Cri.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>292</key>
+		<dict>
+			<key>Track ID</key><integer>292</integer>
+			<key>Name</key><string>robin thicke - blurred lines ft t i , pharrell</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8698525</integer>
+			<key>Total Time</key><integer>271824</integer>
+			<key>Date Modified</key><date>2013-10-20T21:33:41Z</date>
+			<key>Date Added</key><date>2013-10-20T21:36:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3467467167</integer>
+			<key>Play Date UTC</key><date>2013-11-16T22:19:27Z</date>
+			<key>Persistent ID</key><string>AA6AB0FD0B0A74AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/robin%20thicke%20-%20blurred%20lines%20ft%20t%20i%20,%20pharrell.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>294</key>
+		<dict>
+			<key>Track ID</key><integer>294</integer>
+			<key>Name</key><string>Blurred Lines (Feat. T.I. &#38; Pharrell)</string>
+			<key>Artist</key><string>Robin Thicke</string>
+			<key>Composer</key><string>www.NewJams.net</string>
+			<key>Album</key><string>www.NewJams.net</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8712901</integer>
+			<key>Total Time</key><integer>271800</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-20T21:37:30Z</date>
+			<key>Date Added</key><date>2013-10-20T21:36:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewJams.net - New Music Everyday!</string>
+			<key>Persistent ID</key><string>10D7F20CDE364F07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Robin%20Thicke/www.NewJams.net/Blurred%20Lines%20(Feat.%20T.I.%20&#38;%20Pharrell.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>296</key>
+		<dict>
+			<key>Track ID</key><integer>296</integer>
+			<key>Name</key><string>Estrellita donde estas</string>
+			<key>Artist</key><string>barny</string>
+			<key>Album</key><string>Canciones Infantiles del bena</string>
+			<key>Genre</key><string>infantil</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>1422401</integer>
+			<key>Total Time</key><integer>88764</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2010-11-14T17:54:05Z</date>
+			<key>Date Added</key><date>2013-10-20T21:38:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3465132009</integer>
+			<key>Play Date UTC</key><date>2013-10-20T21:40:09Z</date>
+			<key>Persistent ID</key><string>CA76E196C05171DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Desktop/My%20Shared%20Folder/barnye-estrellita%20donde%20estas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>298</key>
+		<dict>
+			<key>Track ID</key><integer>298</integer>
+			<key>Name</key><string>Estrellita donde estas</string>
+			<key>Artist</key><string>barny</string>
+			<key>Album</key><string>Canciones Infantiles del bena</string>
+			<key>Genre</key><string>infantil</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>2963761</integer>
+			<key>Total Time</key><integer>88733</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2013-10-20T21:39:58Z</date>
+			<key>Date Added</key><date>2013-10-20T21:39:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5F17541E2D00D9E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/barny/Canciones%20Infantiles%20del%20bena/19%20Estrellita%20donde%20estas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>Track ID</key><integer>300</integer>
+			<key>Name</key><string>Lucha De Gigantes</string>
+			<key>Artist</key><string>Nacha Pop</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Amores Perros (Soundtrack from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8084137</integer>
+			<key>Total Time</key><integer>239800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-20T21:41:03Z</date>
+			<key>Date Added</key><date>2013-10-20T21:40:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-11-21T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3871FF01299E0D68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/gloria/Music/iTunes/iTunes%20Media/Music/Compilations/Amores%20Perros%20(Soundtrack%20from%20the%20Motio/1-03%20Lucha%20De%20Gigantes%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Biblioteca</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>302</integer>
+			<key>Playlist Persistent ID</key><string>26E16AE20989EF72</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>250</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>248</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Música</string>
+			<key>Playlist ID</key><integer>377</integer>
+			<key>Playlist Persistent ID</key><string>59BF1F49D949BCB6</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>250</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>248</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Vídeos</string>
+			<key>Playlist ID</key><integer>457</integer>
+			<key>Playlist Persistent ID</key><string>0199175DC0A84E06</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Programas de TV</string>
+			<key>Playlist ID</key><integer>463</integer>
+			<key>Playlist Persistent ID</key><string>C0E8D00C861C1F04</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Comprado</string>
+			<key>Playlist ID</key><integer>487</integer>
+			<key>Playlist Persistent ID</key><string>0525773CBB095E5E</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>228</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>526</integer>
+			<key>Playlist Persistent ID</key><string>E56AED890DEF2A32</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Agregadas recientemente</string>
+			<key>Playlist ID</key><integer>529</integer>
+			<key>Playlist Persistent ID</key><string>F0F7FFDC5F0CCF44</string>
+			<key>Distinguished Kind</key><integer>204</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Las 25 más escuchadas</string>
+			<key>Playlist ID</key><integer>532</integer>
+			<key>Playlist Persistent ID</key><string>3938077EB7662195</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Mis preferidas</string>
+			<key>Playlist ID</key><integer>560</integer>
+			<key>Playlist Persistent ID</key><string>AD71E05345AA0452</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>170</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Música clásica</string>
+			<key>Playlist ID</key><integer>564</integer>
+			<key>Playlist Persistent ID</key><string>A0F235B74908A49F</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Música de los 90</string>
+			<key>Playlist ID</key><integer>567</integer>
+			<key>Playlist Persistent ID</key><string>00D2185E0F75FB8D</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Reproducciones recientes</string>
+			<key>Playlist ID</key><integer>572</integer>
+			<key>Playlist Persistent ID</key><string>C7B4E39882F7CCD1</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Vídeos musicales</string>
+			<key>Playlist ID</key><integer>575</integer>
+			<key>Playlist Persistent ID</key><string>9E028C531E4E3AA5</string>
+			<key>Distinguished Kind</key><integer>205</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+	</array>
+</dict>
+</plist>

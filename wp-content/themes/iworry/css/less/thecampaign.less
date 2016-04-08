@@ -1,0 +1,109 @@
+
+#page.thecampaign {
+	position: relative;
+	
+	.bottomshadow(10px, .2);	
+}
+
+
+#repeater.thecampaign {
+	padding-top: 20px;
+
+	.repeateritem {
+		background: url('../images/shadow.png') center bottom no-repeat;
+		background-size: 100% auto;
+		padding: 0 0 30px;
+		margin-bottom: 10px;
+		
+		&:nth-of-type(2) {
+			h4 {
+				margin-bottom: 0;
+			}
+			.btn {
+				margin-top: -15px;
+			}
+		}
+		
+		.btn {
+			padding-top: 10px;
+			padding-bottom: 7px;
+			font-size: 22px;
+			font-weight: 400;
+		}
+	}
+	
+	p {
+		font-size: 15px;
+		line-height: 22px;
+		margin-bottom: 20px;
+		color: #000;
+	}
+}	
+
+
+#celebslist.thecampaign {
+	h3, p {
+		text-align: left;
+	}
+	p {
+		margin:0;
+	}
+	
+	.userlist {
+		margin: 40px 0;
+	}
+}
+
+
+
+#quotes {
+	padding-bottom: 40px;
+
+	blockquote {
+		font-size: 24px;
+		font-family: @proxima;
+		line-height: 32px;
+		color: #616161;
+		font-style: oblique;
+		text-align: center;
+		margin-top: -10px;
+	
+		span {
+			font-weight: 100;
+			font-size: 20px;
+			display: block;
+			margin-top: 20px;
+			font-style: normal;
+		}
+	}
+
+	.aquote {
+		.transition(opacity 500ms ease-in-out);
+
+		&.active {
+			opacity: 1;
+		}
+		&.next {
+			opacity: 0;
+		}
+		&.left {
+			opacity: 1;
+		}
+	}
+
+}
+
+
+/* Foo Box
+  --------------------------------------------- */
+
+
+.foobox-prev, .foobox-next {width: 20px!important;height: 40px!important;margin-top: -20px!important;background-color: transparent!important;-moz-box-shadow: none!important;-webkit-box-shadow: none!important;box-shadow: none!important;}
+.foobox-modal {background: rgba(0,0,0,.4)!important;}
+.foobox-inner {background: none!important;border: 2px solid rgba(255,255,255,.4)!important;border-radius: 6px!important;-webkit-border-radius: 6px!important;-moz-border-radius: 6px!important;}
+.foobox-close {background-color: transparent!important;-moz-box-shadow: none!important;-webkit-box-shadow: none!important;box-shadow: none!important;border:none!important;right: -20px!important;top: -20px!important;}
+.foobox-inner>.foobox-next {right: -30px!important;}
+.foobox-inner>.foobox-prev {left: -30px!important;}
+.foobox-loader {background: #fff!important;width: 43px!important;height: 11px!important;padding:10px 20px;border-radius: 50px!important;-webkit-border-radius: 50px!important;-moz-border-radius: 50px!important;content: url(data:image/gif;base64,R0lGODlhKwALAPEAAP///1VVVaurq1VVVSH+GkNyZWF0ZWQgd2l0aCBhamF4bG9hZC5pbmZvACH5BAAKAAAAIf8LTkVUU0NBUEUyLjADAQAAACwAAAAAKwALAAACMoSOCMuW2diD88UKG95W88uF4DaGWFmhZid93pq+pwxnLUnXh8ou+sSz+T64oCAyTBUAACH5BAAKAAEALAAAAAArAAsAAAI9xI4IyyAPYWOxmoTHrHzzmGHe94xkmJifyqFKQ0pwLLgHa82xrekkDrIBZRQab1jyfY7KTtPimixiUsevAAAh+QQACgACACwAAAAAKwALAAACPYSOCMswD2FjqZpqW9xv4g8KE7d54XmMpNSgqLoOpgvC60xjNonnyc7p+VKamKw1zDCMR8rp8pksYlKorgAAIfkEAAoAAwAsAAAAACsACwAAAkCEjgjLltnYmJS6Bxt+sfq5ZUyoNJ9HHlEqdCfFrqn7DrE2m7Wdj/2y45FkQ13t5itKdshFExC8YCLOEBX6AhQAADsAAAAAAAAAAAA=);}
+
+

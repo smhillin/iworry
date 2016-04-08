@@ -1,0 +1,27 @@
+FooBox V2 Changelog
+================
+
+> Last updated 03 Oct 2013
+
+2012.10.03 - version 2.0.7.3
+ * Reverted fullscreen play / pause to not be centered (but can be centered via an option)
+ * Fixed preloading
+ * Fixed swipe on mobile
+ * Fixed ESC issue in fullscreen
+ * Fixed stretch in fullscreen.
+ * other minor tweaks and fixes
+
+2013.10.02 - version 2.0.6.0
+ * Fixed bug with jQuery 1.8 and below
+ * other minor tweaks and fixes
+
+2013.09.10 - version 2.0.3
+ * Included more robust CSS
+ * Fixed const references from settings
+
+2013.09.09 - version 2.0.2
+ * Fixed caption titles
+ * Added new caption title option
+
+2013.09.03 - version 2.0.1
+ * Beta of V2 released

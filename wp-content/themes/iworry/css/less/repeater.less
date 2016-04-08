@@ -1,0 +1,141 @@
+
+
+/* Repeater
+--------------------------------------------- */
+
+#page.thecrisis {
+	position: relative;
+	
+	.bottomshadow(10px, .2);
+	
+	.pageimg {
+		margin-top: 100px;
+	}
+	
+	.thecontent {
+		min-height: 849px;
+		margin-bottom: -20px;
+		
+		.firefox & {
+			margin-bottom: 0;
+		}
+		
+		ul {
+			padding-right: 360px;
+		}
+		
+		h3 {
+			margin-top: 60px;
+		}
+	}
+}
+
+#repeater.thecrisis, #repeater.takeaction, #products {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+	.repeateritem {
+		background: url('../images/shadow.png') center bottom no-repeat;
+		background-size: 100% auto;
+		padding: 0 0 30px;
+		margin-bottom: 25px;
+		
+		h4 {
+			border-top: 2px solid @grey;
+			font-weight: 300;
+			position: relative;
+
+			a {
+				display: block;
+				height: 38px;
+				line-height: 38px;
+				font-size: 22px;
+				text-transform: uppercase;
+				color: #fff;
+				text-decoration: none!important;
+				
+				.transition();
+				
+				span {
+					background: @grey;
+					display: inline-block;
+					padding:0 10px;
+				}
+				
+				&::after {
+					display: block;
+					width: 28px;
+					height: 28px;
+					position: absolute;
+					right: 0;
+					top: -15px;
+					background: @red;
+					color: #fff;
+					text-align: center;
+					line-height: 30px;
+					
+					.icon('\F068');					
+					.border-radius(100%);
+				}
+				
+				&.collapsed {
+					&::after {
+						.icon('\F067');
+					}
+				}
+			}
+		}
+		
+		&:last-of-type {
+			background: none;
+			padding-bottom: 0;
+			margin-bottom: 0;
+		}
+		
+		.panel-collapse {
+			padding-top: 20px;
+		}
+		
+		/* alternating */
+		
+			.altrowcontent {
+				a {
+					text-decoration: none!important;
+					border-bottom: 1px solid rgba(235, 33, 46, .3);
+					
+					&::before {
+						padding-right: 5px;
+						
+						.icon('\F0DA');
+					}
+				}
+			}
+			
+			
+		&:nth-of-type(even) {
+			.altrowcontent {
+				width: 50%;
+				float: right;
+			}
+			.altrowpic {
+				width: 45%;
+				float: left;
+			}
+		}
+		&:nth-of-type(odd) {
+			.altrowcontent {
+				width: 65%;
+				float: left;
+			}
+			.altrowpic {
+				width: 28%;
+				float: right;
+			}
+		}
+	}
+}
+
+
+#repeater.thecampaign {
+	.wp-image-53 {margin-top: -40px;}
+}
