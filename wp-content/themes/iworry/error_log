@@ -243,3 +243,14 @@
 [30-Mar-2016 01:49:34 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
 [07-Apr-2016 12:44:09 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
 [07-Apr-2016 20:28:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[12-Apr-2016 05:14:37 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[12-Apr-2016 10:48:29 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[12-Apr-2016 16:43:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[12-Apr-2016 16:59:41 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[12-Apr-2016 22:43:55 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[13-Apr-2016 04:49:49 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[17-Apr-2016 20:35:34 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[18-Apr-2016 02:03:30 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[18-Apr-2016 08:31:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[18-Apr-2016 13:44:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
+[18-Apr-2016 20:25:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/thedswt1/public_html/iworry/wp-content/themes/iworry/index.php on line 1
