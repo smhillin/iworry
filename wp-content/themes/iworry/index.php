@@ -12,7 +12,7 @@
 					<iframe width="1300" height="480" src="//www.youtube.com/embed/<?php the_field('video_shortcode'); ?>" frameborder="0" allowfullscreen></iframe>
 				<?php } else { ?>
 					<a href="<?php the_field('url'); ?>" class="btn btn-default"><?php the_field('button_text'); ?></a>
-					<img src="<?php echo get_bloginfo('template_directory'); ?>/timthumb.php?src=<?php the_field('slide'); ?>&amp;w=1300&amp;h=480&amp;zc=1" />
+					<img src="<?php the_field('slide'); ?>" />
 				<?php } ?>
 			</div>
 			<?php $count++;
