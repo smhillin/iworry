@@ -1,5 +1,5 @@
 	<div id="newsletter" class="row">
-		<img src="<?php echo bloginfo('template_directory'); ?>/images/newsletterheader.png" />
+		<img class = "img-responsive" src="<?php echo bloginfo('template_directory'); ?>/images/newsletterheader.png" />
 		
 		<?php gravity_form(5, false, false, '', '', true, ''); ?>
 	</div>

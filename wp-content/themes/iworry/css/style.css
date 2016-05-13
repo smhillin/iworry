@@ -3497,6 +3497,8 @@ a {
 #sliderwrap .aslide {
   position: relative;
 }
+
+
 #sliderwrap .aslide .btn-default {
   position: absolute;
   right: 245px;
@@ -5518,4 +5520,18 @@ body {
 }
 * {
   outline: none!important;
+}
+
+
+
+
+
+
+/*responsive refresh*/
+
+
+
+btn btn-primary  {
+  margin:10px;
+
 }

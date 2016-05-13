@@ -13,6 +13,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title><?php wp_title(''); ?></title>
 
+
+<link rel="stylesheet" media ="screen" type ="text/css" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 <link rel="stylesheet" media="screen" type="text/css" href="<? bloginfo('template_directory'); ?>/css/style.css" />
 <link rel="stylesheet" media="screen" type="text/css" href="<? bloginfo('template_directory'); ?>/style.css" />
 <link rel="shortcut icon" href="<? bloginfo('template_directory'); ?>/images/favicon.png" />
@@ -88,6 +90,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div id="headerwrap">
 		<div id="header" class="container"><div class="inside">
 			<div class="row">
+	
 				<a href="<?php echo bloginfo('url'); ?>" id="logo" class="pull-left"><img src="<?php echo bloginfo('template_directory'); ?>/images/logo.png" /></a>
 				
 				<div id="navwrap" class="pull-left">
