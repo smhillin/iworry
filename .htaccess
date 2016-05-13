@@ -1,5 +1,3 @@
-
-RewriteOptions inherit
 # BEGIN iThemes Security - Do not modify or remove this line
 # iThemes Security Config Details: 2
 	# Protect System Files - Security > Settings > System Tweaks > System Files
@@ -96,6 +94,8 @@ RewriteOptions inherit
 		RewriteRule ^.* - [F]
 	</IfModule>
 # END iThemes Security - Do not modify or remove this line
+
+RewriteOptions inherit
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
