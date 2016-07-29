@@ -1,4 +1,4 @@
-;ƒ›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3450";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-14 10:34:21";s:13:"post_date_gmt";s:19:"2016-07-14 10:34:21";s:12:"post_content";s:677:"<strong>July 14th 2016:</strong>
+.’›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3450";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-14 10:34:21";s:13:"post_date_gmt";s:19:"2016-07-14 10:34:21";s:12:"post_content";s:677:"<strong>July 14th 2016:</strong>
 
 <a class="profileLink" href="https://www.facebook.com/thedswt/" data-hovercard="/ajax/hovercard/page.php?id=120805694888">The David Sheldrick Wildlife Trust</a>'s new Dog Unit launches in the Tsavo Conservation Area. After a year of meticulous preparation and hard effort this well awaited Dog Unit begins its first patrol.
 

@@ -3501,6 +3501,8 @@ a {
 
 
 #sliderwrap .aslide .btn-default {
+  width: auto;
+  color: white;
   position: absolute;
   right: 245px;
   bottom: 75px;

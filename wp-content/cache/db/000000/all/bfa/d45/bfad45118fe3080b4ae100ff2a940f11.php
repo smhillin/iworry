@@ -1,4 +1,4 @@
-Âƒ›W<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:43:"SELECT * FROM iw_posts WHERE ID = 2 LIMIT 1";s:11:"last_result";a:1:{i:0;O:8:"stdClass":23:{s:2:"ID";s:1:"2";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2013-09-04 13:35:45";s:13:"post_date_gmt";s:19:"2013-09-04 13:35:45";s:12:"post_content";s:1561:"<h1>Why save the elephant?</h1>
+’›W<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:43:"SELECT * FROM iw_posts WHERE ID = 2 LIMIT 1";s:11:"last_result";a:1:{i:0;O:8:"stdClass":23:{s:2:"ID";s:1:"2";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2013-09-04 13:35:45";s:13:"post_date_gmt";s:19:"2013-09-04 13:35:45";s:12:"post_content";s:1561:"<h1>Why save the elephant?</h1>
 Elephants have roamed the wild for 15 million years, but today this iconic species face the biggest threat to survival due to continued ivory poaching. As long as there is a demand for ivory, elephants continue to be killed for their tusks. Today it is estimated up to 25,000 elephants are killed annually.
 <h3>Reasons to save the elephant:</h3>
 <ul>

@@ -1,4 +1,4 @@
-;ƒ›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3448";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-11 10:44:25";s:13:"post_date_gmt";s:19:"2016-07-11 10:44:25";s:12:"post_content";s:864:"<strong>July 11th 2016:</strong>
+.’›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3448";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-11 10:44:25";s:13:"post_date_gmt";s:19:"2016-07-11 10:44:25";s:12:"post_content";s:864:"<strong>July 11th 2016:</strong>
 
 The Amboseli Trust for Elephants has been studying elephants for over five decades and have revealed that males are probably the key challenge in managing a human-elephant interface as they are the risk-takers, learning crop raiding and fence breaking from older males.
 

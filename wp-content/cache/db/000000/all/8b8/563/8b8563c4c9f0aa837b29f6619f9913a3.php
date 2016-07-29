@@ -1,4 +1,4 @@
-;ƒ›W<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:70:"SELECT iw_posts.* FROM iw_posts WHERE ID IN (3456,3453,3450,3448,3444)";s:11:"last_result";a:5:{i:0;O:8:"stdClass":23:{s:2:"ID";s:4:"3444";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-06 15:34:07";s:13:"post_date_gmt";s:19:"2016-07-06 15:34:07";s:12:"post_content";s:792:"<strong>July 6th 2015:</strong>
+’›W<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:70:"SELECT iw_posts.* FROM iw_posts WHERE ID IN (3456,3453,3450,3448,3444)";s:11:"last_result";a:5:{i:0;O:8:"stdClass":23:{s:2:"ID";s:4:"3444";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-06 15:34:07";s:13:"post_date_gmt";s:19:"2016-07-06 15:34:07";s:12:"post_content";s:792:"<strong>July 6th 2015:</strong>
 
 A young elephant by the name of Kaavan was taken away from his mother in Sri Lanka in 1985 and taken to the Pakistan Islamabad Zoo.
 

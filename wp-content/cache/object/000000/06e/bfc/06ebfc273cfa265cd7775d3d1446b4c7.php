@@ -1,4 +1,4 @@
-;ƒ›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3456";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-28 14:22:12";s:13:"post_date_gmt";s:19:"2016-07-28 14:22:12";s:12:"post_content";s:882:"<strong>July 28th 2016:</strong>
+.’›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3456";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-28 14:22:12";s:13:"post_date_gmt";s:19:"2016-07-28 14:22:12";s:12:"post_content";s:882:"<strong>July 28th 2016:</strong>
 
 After months of campaigning for his release, concerned individuals around the world will finally watch as Kaavan is removed from a Pakistan zoo to live out his life in freedom.Â The Pakistan senate has ordered for Kaavan to be moved to a sanctuary, where he can be around other elephants in a more natural setting.
 <div class="text_exposed_show">
