@@ -1,0 +1,11 @@
+³dšW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"1735";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-05-13 10:07:53";s:13:"post_date_gmt";s:19:"2014-05-13 10:07:53";s:12:"post_content";s:1172:"<strong>May 13th 2014:Â </strong>Visiting Chinese Premier Li Keqiang said on Saturday in Nairobi that China is strongly committed to protecting wildlife and will spare no effort in combating poaching and ivory smuggling.
+
+The premier made the remarks to Chinese and foreign journalists after visiting the Ivory Burning Site Monument in the Nairobi National Park with Kenyan President Uhuru Kenyatta.
+
+In 1989, then Kenyan President Daniel Arap Moi burned 25 tons of ivory and other hunting trophies in the park. To mark the incineration, the Kenyan government reserved the burning site and set up a monument.
+
+"Our visit to the monument together shows that the two sides are cooperating in good faith to jointly combat poaching and ivory smuggling, and protect wildlife," the Chinese leader said.
+
+<a title="China" href="http://news.xinhuanet.com/english/china/2014-05/11/c_126484917.htm" target="_blank">Read more.Â </a>
+
+<a href="http://iworry.org/wp-content/uploads/2014/05/Prem.jpg" target="_blank"><img class="alignleft size-medium wp-image-1736" alt="Prem" src="http://iworry.org/wp-content/uploads/2014/05/Prem-300x199.jpg" width="300" height="199" /></a>";s:10:"post_title";s:59:"Chinese premier vows to combat poaching and ivory smuggling";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:52:"chinese-premier-vows-combat-poaching-ivory-smuggling";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-05-13 10:09:20";s:17:"post_modified_gmt";s:19:"2014-05-13 10:09:20";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=1735";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

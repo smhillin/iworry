@@ -1,0 +1,11 @@
+"�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"1904";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-07-23 09:24:20";s:13:"post_date_gmt";s:19:"2014-07-23 09:24:20";s:12:"post_content";s:1467:"<strong>July 23 2014:</strong> Will New Zealand Ban the Ivory Trade?
+
+The African poaching crisis is at its worst levels ever, with an elephant killed every 15 minutes for its tusks, fuelled by an insatiable demand for ivory products.
+
+Prominent New Zealand business leaders have teamed up with many of the most respected international conservation agencies and spokespeople - including Jane Goodall, WildAid, and the Environmental Investigation Agency - to formally urge the New Zealand Government to consider a complete ban on all ivory trading. An <a style="color: #399800;" href="http://www.savingthewild.com/2014/07/open-letter-to-new-zealand-government-ivory-trade-ban/" target="_hplink">Open Letter</a> (available for sharing via social media) was delivered to the New Zealand Government and Prime Minister John Key on the 17th of July.
+
+The Foreign Affairs, Defence and Trade Select Committee is due to make a decision on 24 July regarding the ivory ban petition by Auckland teacher Virginia Woolf, supported by environmental policy analyst Fiona Gordon.
+
+<a title="NZ" href="http://www.huffingtonpost.com/jamie-joseph/will-new-zealand-ban-the-_b_5602637.html?&amp;ncid=tweetlnkushpmg00000048" target="_blank">Read more.</a>
+
+<a href="http://iworry.org/wp-content/uploads/2014/06/Dr1.jpg"><img class="alignleft size-medium wp-image-1780" src="http://iworry.org/wp-content/uploads/2014/06/Dr1-300x200.jpg" alt="Dr" width="300" height="200" /></a>";s:10:"post_title";s:38:"Will New Zealand Ban the Ivory Trade? ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:32:"will-new-zealand-ban-ivory-trade";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-07-23 09:24:20";s:17:"post_modified_gmt";s:19:"2014-07-23 09:24:20";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=1904";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

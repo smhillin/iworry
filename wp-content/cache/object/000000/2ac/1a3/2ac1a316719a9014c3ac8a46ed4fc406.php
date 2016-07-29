@@ -1,0 +1,5 @@
+re›W<?php exit; ?>a:1:{s:7:"content";s:864:"<p>The implications of the illegal ivory trade affect us all. In Kenya, tourism supports approximately <strong>one in four</strong> jobs.</p>
+<p>Those who work in tourism or as Park Rangers, as well as many other related occupations, depend on healthy populations of wildlife for survival.</p>
+<p>Threats of terrorist activity linked with the illegal ivory trade impact deeply upon Kenyaâ€™s economy. The tourism industry alone supports approximately one in four jobs. Those working in the tourist industry, as well as related occupations such as Park Rangers, are dependent upon healthy wildlife populations for their livelihood.</p>
+<p>Kenyan security forces are attempting to stamp out activity from the terrorist group al-Shabaab. Such activity puts tourists off visiting the country, which in time affects the funding for vital wildlife conservation.</p>
+";}

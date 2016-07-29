@@ -5,6 +5,11 @@
 		get_template_part('includes/functions/logs/PhpConsole');
 */
 
+
+	
+	// Register Custom Navigation Walker
+	require_once('wp_bootstrap_navwalker.php');	
+
 	// options panel
 	
 		if ( !function_exists( 'optionsframework_init' ) ) {

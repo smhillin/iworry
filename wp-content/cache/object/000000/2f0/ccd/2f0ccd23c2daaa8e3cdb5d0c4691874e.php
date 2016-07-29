@@ -1,0 +1,12 @@
+㔚W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"88";s:11:"post_author";s:1:"8";s:9:"post_date";s:19:"2012-11-01 13:02:54";s:13:"post_date_gmt";s:19:"2012-11-01 13:02:54";s:12:"post_content";s:1193:"<strong>Global Insider: Holding the Line on Illegal Ivory Trade (World Politics Review)</strong>
+
+
+<strong>World Politics Review</strong> (October 31, 2012) 
+
+Tanzania is lobbying to be allowed to make a one-off sale of its ivory stockpile ahead of the annual meeting of the Convention on International Trade in Endangered Species (CITES). In an email interview, Esmond Martin, an independent wildlife trade consultant, discussed the ivory trade regime. 
+
+WPR: What is the CITES decision-making process on issues like Tanzania's request for a one-off sale of its ivory stock?
+
+Esmond Martin: The present CITES decision-making process concerning Tanzania’s request for a one-off sale of ivory consists of a panel of experts put together by CITES to visit Tanzania to check how effective the controls on the ivory trade are. The 176 states parties to the convention will then vote on the panel’s recommendation at the upcoming conference in Bangkok in March 2013. 
+
+<a href="http://www.worldpoliticsreview.com/trend-lines/12464/global-insider-holding-the-line-on-illegal-ivory-trade" title="Holding the line on the illegal ivory trade" target="_blank">Full article available online here </a>";s:10:"post_title";s:123:"World Politics Review examines the issues surrounding Tanzania's request for permission to legally sell its ivory stockpile";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:122:"world-politics-review-examines-the-issues-surrounding-tanzanias-request-for-permission-to-legally-sell-its-ivory-stockpile";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-11-01 13:02:54";s:17:"post_modified_gmt";s:19:"2012-11-01 13:02:54";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:27:"http://www.iworry.org/?p=88";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

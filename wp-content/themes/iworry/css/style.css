@@ -3372,7 +3372,7 @@ a {
   padding-left: 150px;
 }
 #header #nav {
-  margin: 0;
+  margin-top: 30px;
 }
 #header #nav li {
   font-family: 'Roboto Condensed', sans-serif;
@@ -3404,8 +3404,8 @@ a {
 }
 #header .donatenow {
   display: block;
-  height: 70px;
-  line-height: 70px;
+  height: 80px;
+  line-height: 80px;
   background: #fff;
   color: #eb212e;
   font-size: 18px;
@@ -3492,7 +3492,8 @@ a {
   position: relative;
   z-index: 100;
   padding: 0;
-  height: 480px;
+  height: auto;
+  max-width: 1171px;
 }
 #sliderwrap .aslide {
   position: relative;
@@ -5533,5 +5534,31 @@ body {
 
 btn btn-primary  {
   margin:10px;
+}
+
+.nav > li > a {
+    padding:0px;
 
 }
+
+#header #nav { 
+    margin: 30px;
+
+} 
+
+.navbar-collapse {
+      background-color: black;
+}
+
+#headerwrap  {
+  height: 81px;
+ 
+}
+
+.donatenow  {
+  height: 80px;
+}
+
+
+
+

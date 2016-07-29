@@ -1,0 +1,3 @@
+re›W<?php exit; ?>a:1:{s:7:"content";s:446:"<p>In January 2014, in the first court case since Kenya introduced the new anti-poaching law, a Chinese man was convicted of smuggling ivory and ordered to pay $233,000 or serve a seven year jail sentence.</p>
+<p>Under this new Bill, poachers, traffickers and those committing wildlife crimes are liable to fines of not less than 10 million Kenyan shillings (approximately USD 100,000) or to imprisonment of not less than 15 years or both.</p>
+";}

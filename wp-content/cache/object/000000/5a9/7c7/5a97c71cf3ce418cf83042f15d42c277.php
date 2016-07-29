@@ -1,0 +1,7 @@
+M›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2928;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-12-01 14:35:05";s:13:"post_date_gmt";s:19:"2015-12-01 14:35:05";s:12:"post_content";s:664:"<strong>December 1st:</strong> In the past few months, Kenya's National Parks have become desperately dry and as a result, poachers have laid hundreds of snares to trap all manners of wildlife roaming through the bush.
+
+Thankfully the DSWT,Â teams along with the Kenya Wildlife Service, have successfully removed a large amount of snares, saving the lives of many wild animals - including the elephant pictured here.
+
+<a href="http://bit.ly/1l4ZsId" target="_blank">Read more.</a>
+
+<a href="http://bit.ly/1l4ZsId"><img class="alignleft  wp-image-2929" src="http://iworry.org/wp-content/uploads/2015/12/Snares.jpg" alt="Snares" width="521" height="745" /></a>";s:10:"post_title";s:51:"Over 450 snares removed from Kenya's National Parks";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:50:"over-450-snares-removed-from-kenyas-national-parks";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-12-01 14:35:05";s:17:"post_modified_gmt";s:19:"2015-12-01 14:35:05";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2928";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

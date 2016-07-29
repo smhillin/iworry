@@ -1,0 +1,13 @@
+ó®šW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2510;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-05-18 10:47:17";s:13:"post_date_gmt";s:19:"2015-05-18 10:47:17";s:12:"post_content";s:1591:"<strong>May 18th 2015:</strong>Â Over the last three years, more than 10 countries have destroyed their ivory stockpiles. Over 40 tons of ivory have now been burnt or crushed as a sign of their commitment to combat this illicit trade.
+
+Following the recommendations by the Convention on the International Trade in Endangered Species, the Vietnam Administration of Forestry (VNFOREST) is currently preparing a proposal to the Prime Minister that will result in the centralization, inventory and marking of protected species seized in law enforcement operations followed by the destruction of those stockpiles.
+
+<a href="http://english.vietnamnet.vn/fms/environment/130883/vietnam-considers-destruction-of-protected-species-stockpiles.html" target="_blank">Read more.</a>
+
+<a href="http://english.vietnamnet.vn/fms/environment/130883/vietnam-considers-destruction-of-protected-species-stockpiles.html"><img class="size-full wp-image-2511" src="http://iworry.org/wp-content/uploads/2015/05/a2.jpg" alt="Seized ivory tusks are displayed at the Customs and Excise Department in Hong Kong October 3, 2013. Hong Kong Customs has conducted a series of anti-smuggling operations since late September, seizing a total of 189 ivory tusks weighing about 769 kg (1,700 pounds) with a total value of about $11.53 million, found in three containers. The three 20-foot containers, arrived from Cote d'Ivoire, Africa, marked as containing soya, customs officers said. REUTERS/Tyrone Siu (CHINA - Tags: CRIME LAW ANIMALS) - RTR3FJQY" width="700" height="466" /></a>
+
+&nbsp;
+
+Image: Reuters
+
+&nbsp;";s:10:"post_title";s:60:"Vietnam considers destruction of protected species stockpile";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:60:"vietnam-considers-destruction-of-protected-species-stockpile";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-05-18 10:48:54";s:17:"post_modified_gmt";s:19:"2015-05-18 10:48:54";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2510";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

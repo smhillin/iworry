@@ -1,0 +1,9 @@
+◊MõW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3416";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-06-22 11:26:35";s:13:"post_date_gmt";s:19:"2016-06-22 11:26:35";s:12:"post_content";s:869:"<strong>June 22nd 2016:</strong>
+
+<strong></strong>Kenya is moving toward ‚Äúintelligence-based conservation,‚Äù to place more emphasis on the pursuit of traffickers and smugglers rather than on the poachers who actually do the killing.
+
+Benson Kibonde. who served as chief warden of the Selous Game Reserve, in southern Tanzania, for 17 years, explains that with enough dedicated, motivated scouts on active patrol, it is indeed possible to protect elephants.
+
+<a href="http://news.nationalgeographic.com/2016/06/elephant-poaching-selous-game-reserve-ivory-trafficking-tanzania/">Read more.</a>
+
+<a href="http://news.nationalgeographic.com/2016/06/elephant-poaching-selous-game-reserve-ivory-trafficking-tanzania/"><img class="alignleft  wp-image-3417" src="http://iworry.org/wp-content/uploads/2016/06/DD-1024x680.jpg" alt="DD" width="742" height="493" /></a>";s:10:"post_title";s:69:"Wildlife crime networks simply can‚Äôt be stopped at 'poaching level'";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:64:"wildlife-crime-networks-simply-cant-be-stopped-at-poaching-level";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-06-22 11:26:35";s:17:"post_modified_gmt";s:19:"2016-06-22 11:26:35";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=3416";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

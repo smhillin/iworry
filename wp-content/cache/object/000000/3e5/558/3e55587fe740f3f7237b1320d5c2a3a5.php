@@ -1,0 +1,1 @@
+çjõW<?php exit; ?>a:1:{s:7:"content";s:91:"We can monitor wild elephant herds through aerial surveillance and track poaching activity.";}

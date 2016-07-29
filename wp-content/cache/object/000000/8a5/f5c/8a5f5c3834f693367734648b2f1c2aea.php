@@ -1,0 +1,9 @@
+㔚W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"68";s:11:"post_author";s:1:"8";s:9:"post_date";s:19:"2012-10-04 14:56:04";s:13:"post_date_gmt";s:19:"2012-10-04 14:56:04";s:12:"post_content";s:981:"Kristin Davis, patron of the David Sheldrick Wildlife Trust, won the Human Society’s prestigious Wyler Award in 2011 in recognition of the media attention she had brought to the plight of elephants and the threat of the illegal ivory trade. On Friday 28th September, she launched the brand new DSWT campaign iWorry at the charity's first ever gala dinner in London.
+
+Kristin introduced the campaign to the 220 guests attending the prestigious event, and encouraged everyone to join her in standing up to elephants and saying NO to the ivory trade in order to help protect wild elephants for future generations.
+
+Kristin Davis shared her passion for conserving wildlife and her speech raised awareness of the escalating problem of ivory poaching. She encouraged everyone to add their voice to the DSWT iWorry campaign, to help encourage the UK’s DEFRA representatives to CITES to vote against any movement to allow the legal sale of ivory stockpiles at any time.
+
+&nbsp;
+
+&nbsp;";s:10:"post_title";s:49:"iWorry campaign launched by actress Kristin Davis";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:49:"iworry-campaign-launched-by-actress-kristin-davis";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-10-04 14:56:04";s:17:"post_modified_gmt";s:19:"2012-10-04 14:56:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:27:"http://www.iworry.org/?p=68";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

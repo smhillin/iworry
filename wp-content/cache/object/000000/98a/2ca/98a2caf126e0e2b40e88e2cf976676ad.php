@@ -1,0 +1,11 @@
+XM�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3258;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-03-31 09:40:44";s:13:"post_date_gmt";s:19:"2016-03-31 09:40:44";s:12:"post_content";s:1155:"<strong>March 31st 2016:</strong>
+
+Tracking elephant movements to find out where they cross at the new railway line that is under construction nearby, is vital for their future survival.
+
+Teams want to work out where to build so-called “wildlife corridors”, purpose-built tunnels that allow elephants to cross under roads and railway lines without putting themselves or motorists in danger.
+
+“The main objective for tracking these animals is to know where they cross the roads, and where they cross the standard gauge railway that is currently under construction, so then we can use that information to better plan for where future underpasses can be put where animals can cross,” says Save the Elephants Head of Monitoring Benson Okita.
+
+<a href="http://www.euronews.com/2016/03/30/why-kenya-s-new-railway-makes-way-for-the-elephant/" target="_blank">Read more.</a>
+
+<a href="http://www.euronews.com/2016/03/30/why-kenya-s-new-railway-makes-way-for-the-elephant/" rel="attachment wp-att-2275"><img class="alignleft  wp-image-2275" src="http://iworry.org/wp-content/uploads/2015/02/s-1024x683.jpg" alt="s" width="792" height="528" /></a>";s:10:"post_title";s:65:"Conservationists plan to understand elephant behaviour in Nairobi";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:65:"conservationists-plan-to-understand-elephant-behaviour-in-nairobi";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-03-31 09:40:44";s:17:"post_modified_gmt";s:19:"2016-03-31 09:40:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=3258";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,4 @@
+re›W<?php exit; ?>a:1:{s:7:"content";s:751:"<p>A survey carried out by IFAW showed that <strong>70%</strong> of the Chinese population believed that elephantâ€™s ivory simply fell out and did not inflict any harm on the elephant in the process. This statistic is a firm reminder that education is fundamental to the future survival of elephants.</p>
+<p>Through our iworry campaign, we seek to educate and inform Chinese communities in major cities around the world as to the reality of the ivory trade and the impact it is having on elephants.</p>
+<p>Imagery, facts, figures and knowledge are used to inform community members, allowing them to make an educated choice as to their own future buying habits. Education is needed now, whilst efforts must continue to be made to secure a ban.</p>
+";}

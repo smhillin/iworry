@@ -1,0 +1,13 @@
+ᓚW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2088;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-11-17 11:31:05";s:13:"post_date_gmt";s:19:"2014-11-17 11:31:05";s:12:"post_content";s:1669:"<strong>November 17th 2014: </strong>Rapid helicopter response with <a title="DSWT" href="http://www.sheldrickwildlifetrust.org" target="_blank">The David Sheldrick Wildlife Trust</a> and Kenya Wildlife Trust ensured a mighty bull elephant named 'Tim' received emergency treatment for a deep spear wound.
+
+Director of the DSWT, Rob Brandford explains to Huffington Post the challenges faced by the Vet Team in treating a wild 45-year-old bull elephant.
+
+'It was Monday 10 November when we heard the news, Tim the famous Amboseli Tusker had a serious injury and ground teams had been unable to locate him. It is the type of news you dread, and immediately brings to mind two other mighty Tuskers of Kenya, Mountain Bull and Satao, both killed this year by poachers.
+
+The DSWT's helicopter was requested by the Kenya Wildlife Service (KWS) to help locate Tim and within 20 minutes of the call it was airborne. KWS Vet Dr. Njoroge who heads the DSWT funded Amboseli Mobile Vet Team was collected, along with a KWS Ranger to help spot the injured bull elephant.'
+
+<a title="Huff Post" href="http://www.huffingtonpost.co.uk/rob-brandford/anti-poaching-treating-elephants_b_6157286.html" target="_blank">Read more.</a>
+
+Image copyright the <a title="DSWT" href="http://www.sheldrickwildlifetrust.org" target="_blank">DSWT</a> 'Elephant bull Tim watches as the Vet Team leave the scene'
+
+<a href="http://www.huffingtonpost.co.uk/rob-brandford/anti-poaching-treating-elephants_b_6157286.html"><img class="alignleft wp-image-2089 size-large" src="http://iworry.org/wp-content/uploads/2014/11/IMG_0181-1024x768.jpg" alt="IMG_0181" width="1024" height="768" /></a>";s:10:"post_title";s:42:"Treating a Giant Bull Elephant Named 'Tim'";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:38:"treating-giant-bull-elephant-named-tim";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-11-17 11:34:02";s:17:"post_modified_gmt";s:19:"2014-11-17 11:34:02";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2088";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

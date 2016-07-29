@@ -17,6 +17,7 @@
 <link rel="stylesheet" media ="screen" type ="text/css" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 <link rel="stylesheet" media="screen" type="text/css" href="<? bloginfo('template_directory'); ?>/css/style.css" />
 <link rel="stylesheet" media="screen" type="text/css" href="<? bloginfo('template_directory'); ?>/style.css" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/style.css" />
 <link rel="shortcut icon" href="<? bloginfo('template_directory'); ?>/images/favicon.png" />
 
 <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -85,24 +86,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T5SVM3');</script>
 <!-- End Google Tag Manager -->
 
-	<div id="editlink"><?php edit_post_link('<span class="label label-success"><i class="icon-pencil"></i></span>','',' '); ?></div>
+<div id="editlink"><?php edit_post_link('<span class="label label-success"><i class="icon-pencil"></i></span>','',' '); ?></div>
 
-	<div id="headerwrap">
-		<div id="header" class="container"><div class="inside">
+<div id="headerwrap">
+		<div id="header" class="container">
 			<div class="row">
-	
-				<a href="<?php echo bloginfo('url'); ?>" id="logo" class="pull-left"><img src="<?php echo bloginfo('template_directory'); ?>/images/logo.png" /></a>
-				
-				<div id="navwrap" class="pull-left">
-					<?php wp_nav_menu('menu=topmenu&container=menu&menu_id=nav&depth=1'); ?>
-				</div>
-				
-				<a href="<?php echo bloginfo('url'); ?>/donate/" class="donatenow pull-right">{ DONATE NOW! }</a>
-	
-				<div class="socialicons pull-right">
-					<a href="<?php echo of_get_option('fburl'); ?>" class="social-fb"><i class="icon-facebook"></i></a>
-					<a href="<?php echo of_get_option('twurl'); ?>" class="social-tw"><i class="icon-twitter"></i></a>
-				</div>
+
+					<nav class="navbar navbar-light bg-faded">
+						  <button class="navbar-toggler hidden-lg" type="button" data-toggle="collapse" data-target="#navbarCollapse">
+						    &#9776;
+						  </button>
+						  <a class="navbar-brand" href="<?php echo bloginfo('url'); ?>">
+	  					  			<img class = "hidden-md-down" src="<?php echo bloginfo('template_directory'); ?>/images/logo.png" />  
+	  					  </a>
+						
+	  					  <div class="collapse navbar-collapse" id="navbarCollapse">	
+
+									<?php 
+									$defaults = array(
+										'menu' => 'topmenu',
+										'depth' => 1,
+										'container' => false,
+										'menu_class' => 'nav navbar-nav',
+										'menu_id' => 'nav',
+										'fallback_cb' => 'wp_page_menu',
+										'walker' => new wp_bootstrap_navwalker()
+										);
+											
+
+									wp_nav_menu($defaults); 
+
+									?>
+
+								<a href="<?php echo bloginfo('url'); ?>/donate/" class="donatenow pull-right">{ DONATE NOW! }</a>
+			
+								<div class="socialicons pull-right">
+										<a href="<?php echo of_get_option('fburl'); ?>" class="social-fb"><i class="icon-facebook"></i></a>
+										<a href="<?php echo of_get_option('twurl'); ?>" class="social-tw"><i class="icon-twitter"></i></a>
+								</div>
+			  	   	
+							</div>
+								
+
+					</nav>
+			
 			</div>
-		</div></div><!-- header -->
-	</div>
+		</div>
+</div>

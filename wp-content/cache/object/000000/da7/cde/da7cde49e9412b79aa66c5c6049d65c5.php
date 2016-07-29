@@ -1,0 +1,9 @@
+"�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"1896";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-07-15 09:47:16";s:13:"post_date_gmt";s:19:"2014-07-15 09:47:16";s:12:"post_content";s:1008:"<strong>July 15th 2014</strong>: A report issued by the Convention on International Trade in Endangered Species (CITES) states the world is now losing more elephants than the population can reproduce because the profits to b<span class="text_exposed_show">e made from illegal ivory trade are high — and the risks are minimal.</span>
+
+'Elephants are amazing animals', says Leigh senior policy advisor at WWF, 'they are worthy of a world-wide effort to save them.'
+
+<a title="Crisis" href="http://www.pri.org/stories/2014-07-13/fight-save-elephants-has-new-urgency" target="_blank">Read more.</a>
+
+Image: <a title="DSWT" href="http://www.sheldrickwildlifetrust.org" target="_blank">The David Sheldrick Wildlife Trust</a>
+
+<a href="http://iworry.org/wp-content/uploads/2014/07/Wild-bulls-11-brothers.jpg"><img class="alignleft size-medium wp-image-1898" src="http://iworry.org/wp-content/uploads/2014/07/Wild-bulls-11-brothers-300x200.jpg" alt="Wild bulls 11 brothers" width="300" height="200" /></a>";s:10:"post_title";s:47:"The fight to save the elephants has new urgency";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:32:"fight-save-elephants-new-urgency";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-07-15 09:48:16";s:17:"post_modified_gmt";s:19:"2014-07-15 09:48:16";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=1896";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

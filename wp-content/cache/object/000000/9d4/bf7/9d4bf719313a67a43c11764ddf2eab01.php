@@ -1,0 +1,13 @@
+m|�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1835;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-06-27 09:10:24";s:13:"post_date_gmt";s:19:"2014-06-27 09:10:24";s:12:"post_content";s:1771:"<strong>June 27th 2014: </strong>
+
+The Thai Department of National Parks, Wildlife and Plant Conservation (DNP) under the Ministry of Natural Resources and Environment will consult with concerned agencies on the disposal measures for a stockpile of confiscated ivory.
+<p style="color: #000000;">Acting Director-General of the. DNP Nipon Chotibal said that the department has planned the destruction of confiscated elephant tusks to show progress in Thailand’s efforts and cooperation in combating elephant poaching and the illegal ivory trade.</p>
+<p style="color: #000000;">According to Nipon, in order to proceed with the disposal, which will be done for the first time in Thailand, the DNP has sought approval from concerned agencies, both public and private sectors, and non-governmental organizations (NGOs).</p>
+<p style="color: #000000;">The approval meeting will be held on July 8, 2014.</p>
+<p style="color: #000000;">Nipon told journalists that the ivory stockpile, confiscated from illegal traders and poachers since 1992, includes six tonnes of whole tusks numbering around 600, 330 ivory pieces and 2,500 ivory products, worth nearly Bt300 million in total.</p>
+
+<div style="color: #000000;"><a title="Thailand" href="http://www.mcot.net/site/content?id=53acc60fbe0470ad148b45a1#.U60yIpRdV8F" target="_blank">Read more.</a></div>
+<div style="color: #000000;"></div>
+<div style="color: #000000;">Image: US Ivory Crush 2013</div>
+<div style="color: #000000;"></div>
+<div style="color: #000000;"><a href="http://iworry.org/wp-content/uploads/2014/03/ivorycrush3.jpg"><img class="alignleft size-medium wp-image-1667" src="http://iworry.org/wp-content/uploads/2014/03/ivorycrush3-300x225.jpg" alt="ivorycrush3" width="300" height="225" /></a></div>";s:10:"post_title";s:47:"Thailand set to destroy seized ivory stockpiles";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:44:"thailand-set-destroy-seized-ivory-stockpiles";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-06-27 09:21:59";s:17:"post_modified_gmt";s:19:"2014-06-27 09:21:59";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=1835";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

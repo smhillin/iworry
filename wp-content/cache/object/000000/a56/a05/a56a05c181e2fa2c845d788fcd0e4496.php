@@ -1,0 +1,9 @@
+�M�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2342;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-04-02 17:12:32";s:13:"post_date_gmt";s:19:"2015-04-02 17:12:32";s:12:"post_content";s:1053:"<strong>April 2nd 2015:</strong> Elephant tourism in Thailand is big business, with many young elephants being taken from the wild and sold into camps where they are forced to give rides and perform tricks, following a brutal “breaking period” of abuse.
+
+Me-Bai’s story began much like this, torn from her mother at just three years of age, forced into “training” and rented out for elephant rides. But Me-Bai’s story has a happy ending. With the help of Lek Chailert, foun<span class="text_exposed_show">der of Elephant Nature Park, Me-Bai has been retired from the trekking business and is soon to be reunited with her mother, Mae Yui. </span>
+
+<strong><span class="text_exposed_show">The pair are to be rehabilitated so that they can return to a wild together.</span></strong>
+
+<a title="ENP" href="http://bit.ly/1BQfm9M" target="_blank">Read more.</a>
+
+<a href="http://bit.ly/1BQfm9M"><img class="alignleft wp-image-2343 size-full" src="http://iworry.org/wp-content/uploads/2015/04/a.jpg" alt="a" width="694" height="535" /></a>";s:10:"post_title";s:40:"A happy ending for Thai elephant, Me-Bai";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:39:"a-happy-ending-for-thai-elephant-me-bai";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-04-02 17:13:06";s:17:"post_modified_gmt";s:19:"2015-04-02 17:13:06";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2342";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

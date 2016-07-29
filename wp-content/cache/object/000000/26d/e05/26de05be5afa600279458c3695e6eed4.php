@@ -1,0 +1,11 @@
+�d�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"1725";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-05-12 09:14:44";s:13:"post_date_gmt";s:19:"2014-05-12 09:14:44";s:12:"post_content";s:1188:"<strong>May 12th 2014:</strong> Burning of huge ivory stockpile to start this week in Hong Kong.
+
+The destruction of the city's massive stockpile of seized ivory will begin on Thursday, with top officials standing witness and the world's media expected to take note.
+
+About three tonnes of ivory - 10 per cent of the stockpile - will be incinerated at Tsing Yi chemical waste treatment plant. The other 27 tonnes will be destroyed in a further dozen incinerations.
+
+Hong Kong's role as a centre of the illegal ivory trade means it has one of the largest stockpiles of seized ivory. Officials hope their decision to destroy it will send a message to the world that the slaughter of elephants for their tusks will not be tolerated.
+
+<a title="Burning ivory" href="http://www.scmp.com/news/hong-kong/article/1510150/burning-huge-ivory-stash-starts-thursday" target="_blank">Read more.</a>
+
+<a title="ivory" href="http://www.scmp.com/news/hong-kong/article/1510150/burning-huge-ivory-stash-starts-thursday" target="_blank"><img class="alignleft size-medium wp-image-1726" alt="iv" src="http://iworry.org/wp-content/uploads/2014/05/iv-249x300.jpg" width="249" height="300" /></a>";s:10:"post_title";s:63:"HONG KONG: Burning of huge ivory stash starts Thursday 15th May";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:59:"hong-kong-burning-huge-ivory-stash-starts-thursday-15th-may";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-05-12 09:14:44";s:17:"post_modified_gmt";s:19:"2014-05-12 09:14:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=1725";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

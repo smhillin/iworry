@@ -1,0 +1,9 @@
+�:�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1513;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-02-19 12:53:16";s:13:"post_date_gmt";s:19:"2014-02-19 12:53:16";s:12:"post_content";s:937:"<strong>February 19th 2014:</strong> The president of the Republic of Chad, his excellency Idriss Déby Itno, has announced the imminent destruction of his country’s ivory stockpile, amongst a range of elephant protection measures to be implemented as Chad takes the lead in the fight to protect central Africa’s savannah elephants.
+
+The ivory burn signifies Chad’s firm commitment to combatting the elephant poaching that has decimated the region’s once thriving elephant population.
+
+<a title="Africa Geographic" href="http://blog.africageographic.com/africa-geographic-blog/news/chad-commits-to-destroying-ivory-stockpile/" target="_blank">Read more.</a>
+
+Image: US Ivory Crush 2013
+
+<a href="http://iworry.org/wp-content/uploads/2014/02/ivorycrush6.jpg"><img class="alignleft  wp-image-1515" alt="ivorycrush6" src="http://iworry.org/wp-content/uploads/2014/02/ivorycrush6-228x300.jpg" width="400" height="600" /></a>";s:10:"post_title";s:42:"Chad to destroy 1.2 tonnes of seized ivory";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"chad-destroy-1-2-tonnes-seized-ivory";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-02-19 12:54:46";s:17:"post_modified_gmt";s:19:"2014-02-19 12:54:46";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=1513";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

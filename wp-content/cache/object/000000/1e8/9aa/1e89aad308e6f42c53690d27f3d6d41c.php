@@ -1,0 +1,9 @@
+,„›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3444";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-06 15:34:07";s:13:"post_date_gmt";s:19:"2016-07-06 15:34:07";s:12:"post_content";s:792:"<strong>July 6th 2015:</strong>
+
+A young elephant by the name of Kaavan was taken away from his mother in Sri Lanka in 1985 and taken to the Pakistan Islamabad Zoo.
+
+Join us in our efforts to save Kaavan from this horrific zoo so that he can receive the medical care and attention he needs and the prospect of a better life possibly in a reputable sanctuary.
+
+<a href="http://www.thepetitionsite.com/537/803/089/save-the-sick-confined-elephant-kaavan-place-in-reputable-sanctuary/">Read more.</a>
+
+<a href="http://www.thepetitionsite.com/537/803/089/save-the-sick-confined-elephant-kaavan-place-in-reputable-sanctuary/"><img class="alignleft size-large wp-image-3445" src="http://iworry.org/wp-content/uploads/2016/07/kaavan-1024x488.jpg" alt="kaavan" width="1024" height="488" /></a>";s:10:"post_title";s:18:"Please help Kaavan";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:18:"please-help-kaavan";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-07-06 15:34:26";s:17:"post_modified_gmt";s:19:"2016-07-06 15:34:26";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=3444";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

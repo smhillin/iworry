@@ -1,0 +1,5 @@
+re�W<?php exit; ?>a:1:{s:7:"content";s:883:"<p>In the early 1970s, demand for ivory rocketed with 80% of traded raw ivory coming from poached elephants. A ban was put in place in 1989 by CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) and all international trade was prohibited in an attempt to combat this massive illegal trade.</p>
+<p>Major ivory markets were eliminated and some countries in Africa experienced a steep decline in illegal killing allowing some elephant populations to recover. Following a ‘one-off sale’ in 2008, the illegal trade rocketed with 2011 seeing the largest seizures of ivory since records began. Elephant populations declined rapidly as poaching escalated across much of Africa, fuelling the black market.</p>
+<p>Today the demand for ivory continues, wild elephants are <strong>being slaughtered daily</strong> for their tusks.<br />
+</b></a></p>
+";}

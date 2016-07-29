@@ -52,7 +52,7 @@ get_header(); ?>
 				
 			<?php } ?>
 			</div>
-
+			<br>
 			<div id="quotes" class="carousel slide" data-interval="12000">
 				<div class="carousel-inner">
 					

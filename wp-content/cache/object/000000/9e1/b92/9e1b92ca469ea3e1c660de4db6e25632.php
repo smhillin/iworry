@@ -1,0 +1,9 @@
+NM�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3265;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-04-05 14:03:04";s:13:"post_date_gmt";s:19:"2016-04-05 14:03:04";s:12:"post_content";s:1019:"<strong>April 5th 2016:</strong>
+
+The world’s largest stockpile of ivory tusks and rhino horn, photographed almost reaching the ceiling of one storage room, highlights the continuing threat of poaching to Africa’s wildlife.
+
+The stockpile, which is set to be destroyed on April 30th, is from elephants and rhinos killed in conflict with humans, or by poachers, as well as from animals that died naturally, according to Kenya Wildlife Service (KWS) Deputy Director Patrick Omondi.
+
+<a href="http://www.telegraph.co.uk/news/2016/04/04/worlds-largest-ivory-stockpile-highlights-tragic-plight-of-the-e/?utm_source=dlvr.it&amp;utm_medium=twitter" target="_blank">Read more.</a>
+
+<a href="http://www.telegraph.co.uk/news/2016/04/04/worlds-largest-ivory-stockpile-highlights-tragic-plight-of-the-e/?utm_source=dlvr.it&amp;utm_medium=twitter" rel="attachment wp-att-3266"><img class="alignleft size-full wp-image-3266" src="http://iworry.org/wp-content/uploads/2016/04/a.jpg" alt="a" width="720" height="450" /></a>";s:10:"post_title";s:60:"World's largest ivory stockpile highlights plight of species";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:59:"worlds-largest-ivory-stockpile-highlights-plight-of-species";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-04-05 14:03:04";s:17:"post_modified_gmt";s:19:"2016-04-05 14:03:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=3265";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

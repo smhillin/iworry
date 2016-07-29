@@ -1,0 +1,11 @@
+悛W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1739;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-05-14 09:17:17";s:13:"post_date_gmt";s:19:"2014-05-14 09:17:17";s:12:"post_content";s:1409:"<strong>May 14th 2014: </strong>Tanzania announced its new anti-poaching strategy during an international conference in Dar es Salaam at the weekend titled "Stopping Wildlife Crime and Advancing Wildlife Conservation: A Call to Action".
+
+Tanzanian Minister of Natural Resources and Tourism Lazaro Nyalandu and United Nations Development Programme (UNDP) Country Director for Tanzania Phillippe Poinsot signed a memorandum of understanding Saturday (May 10th), setting up the Tanzania Wildlife Conservation Basket Fund, which will be co-ordinated by UNDP.
+
+"This fund will create the most credible mechanism upon which development partners and other stakeholders will be able to support wildlife conservation efforts," Nyalandu told Tanzania's The Citizen after signing the agreement. "The fund will be transparent and it will be implemented by an independent board that will oversee wildlife conservation projects to be approved by the wildlife strategic plan."
+
+Tanzania will also establish the Tanzania Wildlife Authority to oversee wildlife management in the country.
+
+<a title="Tanzania" href="http://allafrica.com/stories/201405131284.html" target="_blank">Read more.</a>
+
+<a href="http://iworry.org/wp-content/uploads/2014/05/laz.jpg"><img class="alignleft size-medium wp-image-1740" alt="laz" src="http://iworry.org/wp-content/uploads/2014/05/laz-300x165.jpg" width="300" height="165" /></a>";s:10:"post_title";s:41:"Tanzania sign agreement to fight poaching";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:38:"tanzania-sign-agreement-fight-poaching";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-05-14 09:17:17";s:17:"post_modified_gmt";s:19:"2014-05-14 09:17:17";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=1739";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

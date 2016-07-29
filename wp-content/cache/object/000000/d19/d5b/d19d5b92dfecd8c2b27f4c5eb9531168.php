@@ -1,0 +1,9 @@
+wn�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3355";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-05-04 15:11:09";s:13:"post_date_gmt";s:19:"2016-05-04 15:11:09";s:12:"post_content";s:897:"<strong>May 4th 2016:</strong>
+
+The French minister of environment has announced an unprecedented total domestic ban of ivory.
+
+The French minister of the Environment, Energy and the Sea, Ségolène Royal, seized the opportunity of the biggest ivory destruction ever in Kenya last Saturday to announce internationally her decision to adopt a total ban of ivory sales in France. She declared that she would be promoting an enlargement of this measure to other EU countries.
+
+<a href="http://www.ifaw.org/united-kingdom/news/french-minister-environment-announces-unprecedented-total-domestic-ban-ivory">Read more.</a>
+
+<a href="http://www.ifaw.org/united-kingdom/news/french-minister-environment-announces-unprecedented-total-domestic-ban-ivory"><img class="alignleft  wp-image-2888" src="http://iworry.org/wp-content/uploads/2015/11/a-1024x768.jpg" alt="a" width="777" height="583" /></a>";s:10:"post_title";s:48:"France distances itself from illegal ivory trade";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:48:"france-distances-itself-from-illegal-ivory-trade";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-05-04 15:11:09";s:17:"post_modified_gmt";s:19:"2016-05-04 15:11:09";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=3355";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

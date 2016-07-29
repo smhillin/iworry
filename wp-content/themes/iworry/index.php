@@ -1,5 +1,5 @@
 <?php get_header(); ?>	
-<div class = "container">
+<div class = "container-fluid">
 		<div id="sliderwrap" class="container">
 			<?php 
 				$count =1;
@@ -32,17 +32,42 @@
 			<p><span class="redtext"><?php echo $shocker[0]; ?></span><span class="greytext"><?php echo $shocker[1]; ?></span></p>
 		</div><!-- shocker -->
 
-		<div id="calltoaction" class="container noise">
+	 	<div id="calltoaction" class="container noise">
 
-		<h3>How will your help make a difference?</h3>
-		<div class="embed-responsive embed-responsive-16by9">
-			<?php if (of_get_option('c2a')) { ?><iframe class="embed-responsive-item" src="//www.youtube.com/embed/qsjczsGXEY8" frameborder="0" allowfullscreen></iframe><?php } ?><br><br>
-		</div>
-	<?php if (of_get_option('c2aurl')) { ?><a href="<?php echo get_permalink(of_get_option('c2aurl')); ?>" class="btn btn-primary">Take Action for Elephants</a><?php } ?>
-		</div><!-- calltoaction -->
+			<h3>How will your help make a difference?</h3>
+			<div class="embed-responsive embed-responsive-16by9">
+				<?php if (of_get_option('c2a')) { ?><iframe class="embed-responsive-item" src="//www.youtube.com/embed/qsjczsGXEY8" frameborder="0" allowfullscreen></iframe><?php } ?><br><br> 
+			</div>
+			<br>
+			<?php if (of_get_option('c2aurl')) { ?><a href="<?php echo get_permalink(of_get_option('c2aurl')); ?>" class="btn btn-primary">Take Action for Elephants</a><?php } ?>
+		</div> <!--calltoaction -->
+
+
+
 
 		
 		<?php get_template_part('includes/content/launchpad'); ?>
+
+		<div class ="container">
+			<div id="quotes" class="carousel slide" data-interval="12000">
+					<div class="carousel-inner">
+						
+						<?php
+							$count = 0;
+							$quotes = get_posts('post_type=quotes&posts_per_page=15');
+							foreach ($quotes as $post) {
+								setup_postdata($post);
+								$count++;
+						?>
+						<div class="item aquote <?php if ($count == 1) { echo "active"; } ?>">
+							<blockquote>"<?php echo get_the_content(); ?>" <span>- <?php the_title(); ?></span></blockquote>
+						</div>
+						<?php } ?>
+						
+					</div>
+			</div><!-- quotes -->
+		</div>
+
 </div>
 
 <?php get_footer(); ?>

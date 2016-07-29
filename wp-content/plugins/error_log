@@ -12,3 +12,4 @@
 [15-Mar-2016 21:46:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/thedswt1/public_html/iworry/wp-content/plugins/hello.php on line 60
 [15-Mar-2016 21:46:30 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/thedswt1/public_html/iworry/wp-content/plugins/hello.php on line 60
 [26-Apr-2016 06:12:09 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/thedswt1/public_html/iworry/wp-content/plugins/hello.php on line 60
+[25-May-2016 17:22:06 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/thedswt1/public_html/iworry/wp-content/plugins/hello.php on line 60

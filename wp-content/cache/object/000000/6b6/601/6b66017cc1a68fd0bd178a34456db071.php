@@ -1,0 +1,10 @@
+lM�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2641;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-07-06 11:16:58";s:13:"post_date_gmt";s:19:"2015-07-06 11:16:58";s:12:"post_content";s:1102:"<strong>July 6th 2015: </strong>Twenty-four young elephants are being transported by air from Zimbabwe to China, eight months after their capture in the north-west of the country sparked outrage from animal rights advocates including Hollywood actor Pierce Brosnan.
+<div class="secondPar">
+
+The animals, all around five years old, were part of a 27-strong group of elephants captured last year in Hwange National Park. They are being sent to Chimelong Safari Park, a vast Chinese corporate leisure centre in the southern city of Guangzhou.
+
+<a href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/11719546/Zimbabwes-young-elephants-sold-to-China.html" target="_blank">Read more.</a>
+
+<a href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/11719546/Zimbabwes-young-elephants-sold-to-China.html"><img class="alignleft wp-image-1946 " src="http://iworry.org/wp-content/uploads/2014/09/Elephants-with-Aerial-Surveillance-plane-overhead-300x200.jpg" alt="Elephants with Aerial Surveillance plane overhead" width="398" height="265" /></a>
+
+</div>";s:10:"post_title";s:42:"Zimbabwe’s young elephants sold to China";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:39:"zimbabwes-young-elephants-sold-to-china";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-07-06 11:16:58";s:17:"post_modified_gmt";s:19:"2015-07-06 11:16:58";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2641";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

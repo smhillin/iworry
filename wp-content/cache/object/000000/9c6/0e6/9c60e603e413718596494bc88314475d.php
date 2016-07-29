@@ -1,0 +1,9 @@
+-M�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2645;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-07-08 08:40:34";s:13:"post_date_gmt";s:19:"2015-07-08 08:40:34";s:12:"post_content";s:893:"<strong>July 8th 2015: </strong>Mozambique burned the world’s largest ever seizure of rhino horn on Monday in what ministers and officials said was a demonstration of their commitment to tackle poaching.
+
+The largely symbolic destruction of 193.5kg of horn and 2,434.6kg of ivory came as neighbouring Zimbabwe confirmed that 24 elephants it captured from a national park had been exported to China despite pleas from conservationists to release them.
+
+<a href="http://www.theguardian.com/environment/2015/jul/06/mozambique-burns-worlds-largest-rhino-horn-seizure" target="_blank">Read more.</a>
+
+Photograph: WCS Mozambique
+
+<a href="http://www.theguardian.com/environment/2015/jul/06/mozambique-burns-worlds-largest-rhino-horn-seizure"><img class="alignleft size-full wp-image-2646" src="http://iworry.org/wp-content/uploads/2015/07/a.jpg" alt="a" width="620" height="372" /></a>";s:10:"post_title";s:51:"Mozambique burns world's largest rhino horn seizure";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:50:"mozambique-burns-worlds-largest-rhino-horn-seizure";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-07-08 08:41:44";s:17:"post_modified_gmt";s:19:"2015-07-08 08:41:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=2645";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

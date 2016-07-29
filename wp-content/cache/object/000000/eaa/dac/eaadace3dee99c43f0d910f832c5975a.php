@@ -1,0 +1,11 @@
+�M�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2774";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-08-21 10:01:04";s:13:"post_date_gmt";s:19:"2015-08-21 10:01:04";s:12:"post_content";s:1219:"<strong>August 21st 2015: </strong>As illegal poaching escalates in national parks from Selous to Ruaha, officials attempt to silence the crisis and many fear Serengeti herds will be next.
+
+For tour guides in Tanzania, the results of a continental elephant census showing that the country had lost two-thirds of its herd in five years and become Africa’s ivory trading hub came as no surprise.
+
+They’d tried to prevent tourists from seeing the melting skins and drying bones littering the Selous ecosystem in southern Tanzania for years. But they couldn’t mask the shots heard from safari camps in a reserve once known as “the elephant capital of the world”. Last year it was named in the journal Science as Africa’s poaching hotspot, and a Unesco world heritage in danger site.
+
+<a href="http://www.theguardian.com/environment/2015/aug/20/tanzania-illegal-poaching-elephant-population-decline" target="_blank">Read more.</a>
+
+<a href="http://www.theguardian.com/environment/2015/aug/20/tanzania-illegal-poaching-elephant-population-decline"><img class="alignleft  wp-image-2775" src="http://iworry.org/wp-content/uploads/2015/08/a6-1024x614.jpg" alt="a" width="714" height="428" /></a>
+
+&nbsp;";s:10:"post_title";s:69:"Tanzania turns a blind eye to poaching as elephant populations tumble";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:69:"tanzania-turns-a-blind-eye-to-poaching-as-elephant-populations-tumble";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-08-21 10:01:04";s:17:"post_modified_gmt";s:19:"2015-08-21 10:01:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=2774";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

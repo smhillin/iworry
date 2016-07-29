@@ -1,0 +1,9 @@
+,ÑõW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3448";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-07-11 10:44:25";s:13:"post_date_gmt";s:19:"2016-07-11 10:44:25";s:12:"post_content";s:864:"<strong>July 11th 2016:</strong>
+
+The Amboseli Trust for Elephants has been studying elephants for over five decades and have revealed that males are probably the key challenge in managing a human-elephant interface as they are the risk-takers, learning crop raiding and fence breaking from older males.
+
+‚ÄúAs Amboseli changes for both humans and elephants, understanding those young explorers will allow us to provide hard data to underpin management decisions,‚Äù said Cynthia Moss.
+
+<a href="https://www.capitalfm.co.ke/news/2016/07/study-focus-patterns-male-elephants-amboseli/">Read more.</a>
+
+<a href="https://www.capitalfm.co.ke/news/2016/07/study-focus-patterns-male-elephants-amboseli/"><img class="alignleft size-full wp-image-2122" src="http://iworry.org/wp-content/uploads/2014/12/a.jpg" alt="Savannah Elephant" width="800" height="497" /></a>";s:10:"post_title";s:56:"Study to focus on patterns of male elephants in Amboseli";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:56:"study-to-focus-on-patterns-of-male-elephants-in-amboseli";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-07-11 10:44:25";s:17:"post_modified_gmt";s:19:"2016-07-11 10:44:25";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=3448";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

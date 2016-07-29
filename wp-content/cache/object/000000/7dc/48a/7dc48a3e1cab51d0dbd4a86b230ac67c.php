@@ -1,0 +1,9 @@
+EN�W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2906";s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2015-11-17 10:50:26";s:13:"post_date_gmt";s:19:"2015-11-17 10:50:26";s:12:"post_content";s:1100:"<strong>November 17th 2015:</strong> When Singaporean authorities seized a near-record four tons of ivory hidden inside containers of tea in May, its origin was familiar: the Kenyan port of Mombasa.
+
+Stretched along the Indian Ocean coast, East Africa’s biggest port has quietly emerged as the world’s major transit point for ivory, organizations that track illicit wildlife trade say. As the African elephant population falls to historic lows, tusks are exiting Mombasa in record numbers—secreted in containers of dried fish, buried in chili powder or wedged inside vats of shea butter.
+
+<a href="http://www.wsj.com/articles/kenyan-port-is-hub-for-illicit-ivory-trade-1447720944" target="_blank">Read more.</a>
+
+<span class="wsj-article-credit"><span class="wsj-article-credit-tag">PHOTO: </span>NICHOLE SOBECKI FOR THE WALL STREET JOURNAL</span>
+
+<a href="http://www.wsj.com/articles/kenyan-port-is-hub-for-illicit-ivory-trade-1447720944"><img class="alignleft  wp-image-2907" src="http://iworry.org/wp-content/uploads/2015/11/a2-1024x682.jpg" alt="a" width="901" height="600" /></a>";s:10:"post_title";s:42:"Kenyan Port Is Hub for Illicit Ivory Trade";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:42:"kenyan-port-is-hub-for-illicit-ivory-trade";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-17 10:50:26";s:17:"post_modified_gmt";s:19:"2015-11-17 10:50:26";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:25:"http://iworry.org/?p=2906";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

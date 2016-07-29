@@ -1,0 +1,14 @@
+㔚W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"75";s:11:"post_author";s:1:"8";s:9:"post_date";s:19:"2012-10-22 10:50:04";s:13:"post_date_gmt";s:19:"2012-10-22 10:50:04";s:12:"post_content";s:1745:"<strong>Associated Press</strong>
+October 19, 2012
+
+<strong>Hong Kong seizes $3.4M in illegal African ivory</strong>
+
+Hong Kong customs officers have confiscated nearly 4 tons of ivory worth $3.4 million in their biggest ever seizure of endangered species products, authorities said on Saturday.
+Acting on a tip from customs officials in neighboring Guangdong province in mainland China, Hong Kong officials found the ivory tusks and ornaments in two containers shipped from Tanzania and Kenya.
+Officers on Tuesday found nearly 1,000 pieces of ivory tusks weighing more than 1,900 kilograms (4,188 pounds) as well as 1.4 kilograms (3 pounds) of ivory ornaments in a container from Tanzania. The ivory was hidden in bags of plastic scrap.
+
+A day later, officers found 237 pieces of ivory tusks weighing about 1,900 kilograms (4,188 pounds) in a shipment from Kenya. Authorities in China have arrested seven people, including one from Hong Kong.
+
+The ivory seizure tops one in 2011 worth $2.2 million. "This is the biggest haul of ivory tusk in Hong Kong customs enforcement history in a single operation," said Lam Tak-fai, head of Hong Kong's Ports and Maritime Command. Wildlife activists blame China's growing presence in Africa for an unprecedented surge in poaching elephants for their tusks, most of which are believed to be smuggled to China and Thailand to make ivory ornaments. Under Hong Kong law, anyone found guilty of trading in endangered species products can be faces up to two years in prison and a fine of up to $640,000.
+
+<a href="http://www.google.com/hostednews/ap/article/ALeqM5gu0EwuITCRxngbx1ljLfHoHWnyNw?docId=b108415d485244c982a0a683c39d7325" title="Article Available at" target="_blank">Article available online here</a>";s:10:"post_title";s:66:"Hong Kong seizes $3.4m in illegal African Ivory (Associated Press)";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:63:"hong-kong-seizes-3-4m-in-illegal-african-ivory-associated-press";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-10-22 10:50:04";s:17:"post_modified_gmt";s:19:"2012-10-22 10:50:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:27:"http://www.iworry.org/?p=75";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

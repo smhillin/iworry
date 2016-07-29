@@ -1,0 +1,7 @@
+Ê–šW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1597;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2014-03-10 10:46:22";s:13:"post_date_gmt";s:19:"2014-03-10 10:46:22";s:12:"post_content";s:560:"<strong>March 10th 2014:</strong> As anti-poaching efforts become more militarised to meet a growing poaching threat throughout Africa, this in-depth article asks is this the right way to save the continent's vanishing animals?
+
+<a title="Ivory Police" href="http://www.csmonitor.com/World/Africa/2014/0302/The-ivory-police" target="_blank">Read more.</a>
+
+Find out more about the Anti-Poaching efforts of <a title="DSWT" href="http://www.sheldrickwildlifetrust.org/desnaring/index_new.asp" target="_blank">The David Sheldrick Wildlife Trust</a>.
+
+&nbsp;";s:10:"post_title";s:28:"It's been described as a war";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"described-war";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-03-10 10:53:28";s:17:"post_modified_gmt";s:19:"2014-03-10 10:53:28";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=1597";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

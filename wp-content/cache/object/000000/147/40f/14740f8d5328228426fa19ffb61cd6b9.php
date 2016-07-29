@@ -1,0 +1,11 @@
+oe�W<?php exit; ?>a:1:{s:7:"content";s:2074:"<p><img class="alignright size-full wp-image-53" alt="elephant" src="http://iworry.org/wp-content/uploads/2013/09/elephant.jpg" width="326" height="553" /></p>
+<p>The <I>iworry</I> campaign calls on world governments to make the illicit ivory trade and wildlife crime a priority issue, to make a financial commitment to security enforcement and to impose a complete ban on all ivory sales.</p>
+<p>As a field based organisation, the DSWT works on the front line to protect wildlife and prevent the suffering and killing of wild animals.  Recognising the need for greater global awareness of the illegal wildlife trade in ivory, which claimed the lives of 100,000 elephants between 2010 and 2012, the DSWT launched iworry in 2012.  The campaign is based on the premise that everyone has a stake in conserving elephants and that we must come together if we are to successfully educate and inform people as to the existence of the illegal ivory trade, the devastating toll it is having on elephant populations and through that, call on governments from around the world to take proactive steps to tackle this illicit trade and save elephants.</p>
+<p>Sharing the evidence of poaching witnessed by DSWT teams in the field, iworry utilises social media, petitions, imagery, the press and public marches to create an awareness of the existence of the ivory trade and its impacts.  The loss of elephants in the wild, an iconic, intelligent and social species, would not only make the world a lesser place, it would have serious environmental and economic repercussions.</p>
+<p><strong>'Dead or Alive? Valuing an Elephant'</strong> </p>
+
+#WorthMoreAlive
+
+<p>A living elephant is worth a staggering <strong>76 times</strong> more alive than dead for its tusks. The loss of Africa’s elephants threatens Africa’s economies - and travel companies offering a chance to see the species - and highlights the need for global action. </p>
+<p>Read the ground breaking iworry report<a href="http://iworry.org/wp-content/uploads/2013/09/Dead-or-Alive-Final-LR.pdf"> here.</a></p>
+";}

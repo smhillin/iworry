@@ -1,0 +1,1 @@
+±“›W<?php exit; ?>a:1:{s:7:"content";a:6:{s:4:"path";s:61:"/home2/thedswt1/public_html/iworry/wp-content/uploads/2016/07";s:3:"url";s:44:"http://iworry.org/wp-content/uploads/2016/07";s:6:"subdir";s:8:"/2016/07";s:7:"basedir";s:53:"/home2/thedswt1/public_html/iworry/wp-content/uploads";s:7:"baseurl";s:36:"http://iworry.org/wp-content/uploads";s:5:"error";b:0;}}

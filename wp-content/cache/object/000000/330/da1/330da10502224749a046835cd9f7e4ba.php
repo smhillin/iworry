@@ -1,0 +1,11 @@
+¼M›W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3020;s:11:"post_author";s:2:"48";s:9:"post_date";s:19:"2016-02-15 11:08:54";s:13:"post_date_gmt";s:19:"2016-02-15 11:08:54";s:12:"post_content";s:1267:"<strong>February 15th 2016:</strong>Â African elephants are the largest land animals on Earth. Growing as tall as a basketball goal and weighing more than three minivans, these beloved behemoths are famously social, intelligent, emotional â€” and hungry.
+
+Wise enough to know an easy meal when they smell it, wild elephants often leave nature preserves at night to raid crops from nearby farms. Even a small herd can wipe out a full year's harvest in one night, leaving farmers frustrated and resentful. If your corn is coveted by 7-ton juggernauts, what can do you do?
+
+The secret to co-existing with elephants, however, isn't necessarily to think big. Rather than using high walls or high voltage to keep elephants away from crops, one of the most buzzworthy ideas relies on an insect about the size of a paper clip.
+
+<a href="http://www.mnn.com/leaderboard/blogs/how-beehive-fences-help-elephants-and-farmers" target="_blank">Read more.</a>
+
+(Image: Lucy King/Elephants and Bees Project)
+
+<a href="http://www.mnn.com/leaderboard/blogs/how-beehive-fences-help-elephants-and-farmers" rel="attachment wp-att-3021"><img class="alignleft size-full wp-image-3021" src="http://iworry.org/wp-content/uploads/2016/02/a.jpg" alt="a" width="838" height="629" /></a>";s:10:"post_title";s:45:"How beehive fences help elephants and farmers";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:45:"how-beehive-fences-help-elephants-and-farmers";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-02-15 11:08:54";s:17:"post_modified_gmt";s:19:"2016-02-15 11:08:54";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:25:"http://iworry.org/?p=3020";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
